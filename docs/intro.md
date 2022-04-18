@@ -1,5 +1,7 @@
 ---
+title: Intro to Gear Whitepaper
 sidebar_position: 1
+slug: /
 ---
 
 # Tutorial Intro
