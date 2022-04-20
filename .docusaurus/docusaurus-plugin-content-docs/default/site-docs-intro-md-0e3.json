@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Intro to Gear Whitepaper",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Here we go",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -16,9 +16,5 @@
     "sidebar_position": 1,
     "slug": "/"
   },
-  "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Create a Page",
-    "permalink": "/tutorial-basics/create-a-page"
-  }
+  "sidebar": "tutorialSidebar"
 }

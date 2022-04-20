@@ -12,7 +12,7 @@ export default {
   "onBrokenLinks": "log",
   "onBrokenMarkdownLinks": "log",
   "onDuplicateRoutes": "log",
-  "favicon": "img/favicon.ico",
+  "favicon": "/img/favicon-32x32.png",
   "organizationName": "Gear Foundation",
   "projectName": "Whitepaper",
   "presets": [
@@ -41,8 +41,9 @@ export default {
     "navbar": {
       "title": "Gear Whitepaper",
       "logo": {
-        "alt": "Gear Whitepaper",
-        "src": "img/logo.svg"
+        "alt": "Gear Whitepaper website",
+        "src": "img/logo-black.svg",
+        "srcDark": "img/logo-white.svg"
       },
       "items": [
         {
