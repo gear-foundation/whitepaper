@@ -8,11 +8,21 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "intro",
+          "mainDocId": "abstract",
           "docs": [
             {
-              "id": "intro",
+              "id": "abstract",
               "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "polka",
+              "path": "/polka",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -20,7 +30,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/",
-                "label": "intro"
+                "label": "abstract"
               }
             }
           }
