@@ -33,7 +33,7 @@
     "content": "content---markdown-page-393-028",
     "__routeContextModule": "__routeContextModule---markdown-page-596-394"
   },
-  "/-e18": {
+  "/-b35": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf",
     "__routeContextModule": "__routeContextModule---f-07-59e"
@@ -42,12 +42,52 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---2-c-1-5ee"
   },
+  "/components-ae4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---components-1-f-7-aa2"
+  },
   "/introduction-e7c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---introductiona-09-926"
   },
-  "/polka-a39": {
+  "/nodes-e5c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---polkaaf-4-774"
+    "content": "content---nodes-3-f-6-520"
+  },
+  "/onboarding-357": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---onboarding-0-c-5-667"
+  },
+  "/technology/actor-model-1fb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-actor-modelbb-9-02b"
+  },
+  "/technology/capabilities-809": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-capabilities-779-016"
+  },
+  "/technology/gas-balance-b21": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-gas-balance-44-a-16f"
+  },
+  "/technology/parallelism-764": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-parallelism-66-b-1e8"
+  },
+  "/technology/state-c5c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-state-7-a-7-d64"
+  },
+  "/technology/state-transition-a6d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-state-transition-1-e-8-7e3"
+  },
+  "/technology/wasm-e4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---technology-wasmeed-bdb"
+  },
+  "/upgrade-a11": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---upgrade-442-31f"
   }
 }

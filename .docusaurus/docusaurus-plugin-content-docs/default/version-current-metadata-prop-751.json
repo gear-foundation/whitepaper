@@ -21,10 +21,78 @@
         "docId": "introduction"
       },
       {
+        "type": "category",
+        "label": "Gear network technology",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Capabilities",
+            "href": "/technology/capabilities",
+            "docId": "technology/capabilities"
+          },
+          {
+            "type": "link",
+            "label": "Gear network state",
+            "href": "/technology/state",
+            "docId": "technology/state"
+          },
+          {
+            "type": "link",
+            "label": "State transition",
+            "href": "/technology/state-transition",
+            "docId": "technology/state-transition"
+          },
+          {
+            "type": "link",
+            "label": "Actor model",
+            "href": "/technology/actor-model",
+            "docId": "technology/actor-model"
+          },
+          {
+            "type": "link",
+            "label": "Memory parallelism",
+            "href": "/technology/parallelism",
+            "docId": "technology/parallelism"
+          },
+          {
+            "type": "link",
+            "label": "WebAssembly",
+            "href": "/technology/wasm",
+            "docId": "technology/wasm"
+          },
+          {
+            "type": "link",
+            "label": "Balance transfers and gas economy",
+            "href": "/technology/gas-balance",
+            "docId": "technology/gas-balance"
+          }
+        ]
+      },
+      {
         "type": "link",
-        "label": "Polkadot",
-        "href": "/polka",
-        "docId": "polka"
+        "label": "components",
+        "href": "/components",
+        "docId": "components"
+      },
+      {
+        "type": "link",
+        "label": "nodes",
+        "href": "/nodes",
+        "docId": "nodes"
+      },
+      {
+        "type": "link",
+        "label": "onboarding",
+        "href": "/onboarding",
+        "docId": "onboarding"
+      },
+      {
+        "type": "link",
+        "label": "upgrade",
+        "href": "/upgrade",
+        "docId": "upgrade"
       }
     ]
   },
@@ -35,16 +103,76 @@
       "description": "Blockchain, once viewed as an obscure and complex technology, is now widely known and starting to be used by a broad audience. Eventually, most relationships between people (trade, finance, legal, environments, entertainments etc) will have its foundations technically rooted on the blockchain. The rapid progress of this new and disruptive technology has been met with doubt and resistance, but innovation will continue forward and the world will be forced to adapt to the new reality enabled by this fundamental innovation.",
       "sidebar": "tutorialSidebar"
     },
+    "components": {
+      "id": "components",
+      "title": "components",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "introduction": {
       "id": "introduction",
       "title": "Introduction",
       "description": "World Wide Web",
       "sidebar": "tutorialSidebar"
     },
-    "polka": {
-      "id": "polka",
-      "title": "Polkadot",
-      "description": "Polka",
+    "nodes": {
+      "id": "nodes",
+      "title": "nodes",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "onboarding": {
+      "id": "onboarding",
+      "title": "onboarding",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/actor-model": {
+      "id": "technology/actor-model",
+      "title": "Actor model",
+      "description": "One of the main challenges of concurrent systems is concurrency control. It defines the correct sequence of communications between different programs, and coordinates access to shared resources. Potential problems include race conditions, deadlocks, and resource starvation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/capabilities": {
+      "id": "technology/capabilities",
+      "title": "Capabilities",
+      "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear network.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/gas-balance": {
+      "id": "technology/gas-balance",
+      "title": "Balance transfers and gas economy",
+      "description": "Regular balance transfer is performed inside the Substrate Balances module. Balance is transferred between user, program and validator accounts.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/parallelism": {
+      "id": "technology/parallelism",
+      "title": "Memory parallelism",
+      "description": "Individual isolated memory space per program allows parallelization of message processing on a Gear node. The number of parallel processing streams equals the number of CPU cores. Each stream processes messages intended for a defined set of programs. It relates to messages sent from other programs or from outside influences, for instance, user’s transactions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/state": {
+      "id": "technology/state",
+      "title": "Gear network state",
+      "description": "As any blockchain system, Gear maintains distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/state-transition": {
+      "id": "technology/state-transition",
+      "title": "State transition",
+      "description": "Each system follows the rules according to which the state of the system evolves. As the network processes new input data, the state is advanced according to state transition rules. This input data is packed in atomic pieces of information called transactions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/wasm": {
+      "id": "technology/wasm",
+      "title": "WebAssembly",
+      "description": "WebAssembly (or WASM) is a standard developed by W3C Community Group, which defines a low-level binary code format for executable programs and can run as a standalone virtual machine.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrade": {
+      "id": "upgrade",
+      "title": "upgrade",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

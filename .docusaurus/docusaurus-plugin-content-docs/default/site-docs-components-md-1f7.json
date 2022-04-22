@@ -1,0 +1,23 @@
+{
+  "unversionedId": "components",
+  "id": "components",
+  "title": "components",
+  "description": "",
+  "source": "@site/docs/components.md",
+  "sourceDirName": ".",
+  "slug": "/components",
+  "permalink": "/components",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Balance transfers and gas economy",
+    "permalink": "/technology/gas-balance"
+  },
+  "next": {
+    "title": "nodes",
+    "permalink": "/nodes"
+  }
+}

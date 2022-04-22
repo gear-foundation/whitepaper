@@ -16,13 +16,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "components",
+              "path": "/components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction",
               "path": "/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "polka",
-              "path": "/polka",
+              "id": "nodes",
+              "path": "/nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "onboarding",
+              "path": "/onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/actor-model",
+              "path": "/technology/actor-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/capabilities",
+              "path": "/technology/capabilities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/gas-balance",
+              "path": "/technology/gas-balance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/parallelism",
+              "path": "/technology/parallelism",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/state",
+              "path": "/technology/state",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/state-transition",
+              "path": "/technology/state-transition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology/wasm",
+              "path": "/technology/wasm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrade",
+              "path": "/upgrade",
               "sidebar": "tutorialSidebar"
             }
           ],

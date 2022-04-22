@@ -1,0 +1,19 @@
+{
+  "unversionedId": "upgrade",
+  "id": "upgrade",
+  "title": "upgrade",
+  "description": "",
+  "source": "@site/docs/upgrade.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade",
+  "permalink": "/upgrade",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/upgrade.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "onboarding",
+    "permalink": "/onboarding"
+  }
+}

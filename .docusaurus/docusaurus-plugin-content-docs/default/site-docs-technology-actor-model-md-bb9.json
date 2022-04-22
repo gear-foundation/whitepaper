@@ -1,0 +1,28 @@
+{
+  "unversionedId": "technology/actor-model",
+  "id": "technology/actor-model",
+  "title": "Actor model",
+  "description": "One of the main challenges of concurrent systems is concurrency control. It defines the correct sequence of communications between different programs, and coordinates access to shared resources. Potential problems include race conditions, deadlocks, and resource starvation.",
+  "source": "@site/docs/technology/actor-model.md",
+  "sourceDirName": "technology",
+  "slug": "/technology/actor-model",
+  "permalink": "/technology/actor-model",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/actor-model.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Actor model",
+    "sidebar_position": 4,
+    "sidebar_label": "Actor model"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "State transition",
+    "permalink": "/technology/state-transition"
+  },
+  "next": {
+    "title": "Memory parallelism",
+    "permalink": "/technology/parallelism"
+  }
+}

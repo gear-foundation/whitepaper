@@ -1,0 +1,23 @@
+{
+  "unversionedId": "onboarding",
+  "id": "onboarding",
+  "title": "onboarding",
+  "description": "",
+  "source": "@site/docs/onboarding.md",
+  "sourceDirName": ".",
+  "slug": "/onboarding",
+  "permalink": "/onboarding",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/onboarding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nodes",
+    "permalink": "/nodes"
+  },
+  "next": {
+    "title": "upgrade",
+    "permalink": "/upgrade"
+  }
+}

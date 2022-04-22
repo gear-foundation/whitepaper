@@ -1,0 +1,23 @@
+{
+  "unversionedId": "nodes",
+  "id": "nodes",
+  "title": "nodes",
+  "description": "",
+  "source": "@site/docs/nodes.md",
+  "sourceDirName": ".",
+  "slug": "/nodes",
+  "permalink": "/nodes",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "components",
+    "permalink": "/components"
+  },
+  "next": {
+    "title": "onboarding",
+    "permalink": "/onboarding"
+  }
+}

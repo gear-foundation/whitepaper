@@ -45,11 +45,17 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','e18'),
+    component: ComponentCreator('/','b35'),
     routes: [
       {
         path: '/',
         component: ComponentCreator('/','901'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/components',
+        component: ComponentCreator('/components','ae4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -60,8 +66,62 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/polka',
-        component: ComponentCreator('/polka','a39'),
+        path: '/nodes',
+        component: ComponentCreator('/nodes','e5c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/onboarding',
+        component: ComponentCreator('/onboarding','357'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/actor-model',
+        component: ComponentCreator('/technology/actor-model','1fb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/capabilities',
+        component: ComponentCreator('/technology/capabilities','809'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/gas-balance',
+        component: ComponentCreator('/technology/gas-balance','b21'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/parallelism',
+        component: ComponentCreator('/technology/parallelism','764'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/state',
+        component: ComponentCreator('/technology/state','c5c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/state-transition',
+        component: ComponentCreator('/technology/state-transition','a6d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/technology/wasm',
+        component: ComponentCreator('/technology/wasm','e4b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/upgrade',
+        component: ComponentCreator('/upgrade','a11'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
