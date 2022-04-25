@@ -1,8 +1,8 @@
 {
   "unversionedId": "components",
   "id": "components",
-  "title": "components",
-  "description": "",
+  "title": "Gear components",
+  "description": "Messages are the main interface for communications between actors (users and programs). Every Gear program contains code for processing an incoming message. During message processing, programs can send messages to other programs and users including replying to the initial message.",
   "source": "@site/docs/components.md",
   "sourceDirName": ".",
   "slug": "/components",
@@ -10,14 +10,19 @@
   "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/components.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Gear components",
+    "sidebar_position": 4,
+    "sidebar_label": "Gear components"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Balance transfers and gas economy",
     "permalink": "/technology/gas-balance"
   },
   "next": {
-    "title": "nodes",
+    "title": "Gear Nodes",
     "permalink": "/nodes"
   }
 }

@@ -21,8 +21,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "conclusion",
+              "path": "/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundation",
+              "path": "/foundation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction",
               "path": "/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones",
+              "path": "/milestones",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -33,6 +48,11 @@
             {
               "id": "onboarding",
               "path": "/onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "parachain",
+              "path": "/parachain",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -71,8 +91,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "token",
+              "path": "/token",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "upgrade",
               "path": "/upgrade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usecases",
+              "path": "/usecases",
               "sidebar": "tutorialSidebar"
             }
           ],

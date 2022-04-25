@@ -72,27 +72,63 @@
       },
       {
         "type": "link",
-        "label": "components",
+        "label": "Gear components",
         "href": "/components",
         "docId": "components"
       },
       {
         "type": "link",
-        "label": "nodes",
+        "label": "Gear Nodes",
         "href": "/nodes",
         "docId": "nodes"
       },
       {
         "type": "link",
-        "label": "onboarding",
+        "label": "Network upgrade",
+        "href": "/upgrade",
+        "docId": "upgrade"
+      },
+      {
+        "type": "link",
+        "label": "Onboarding - Wiki, Gear Idea",
         "href": "/onboarding",
         "docId": "onboarding"
       },
       {
         "type": "link",
-        "label": "upgrade",
-        "href": "/upgrade",
-        "docId": "upgrade"
+        "label": "Gear native token",
+        "href": "/token",
+        "docId": "token"
+      },
+      {
+        "type": "link",
+        "label": "Gear as a parachain",
+        "href": "/parachain",
+        "docId": "parachain"
+      },
+      {
+        "type": "link",
+        "label": "Gear applicability and use cases",
+        "href": "/usecases",
+        "docId": "usecases"
+      },
+      {
+        "type": "link",
+        "label": "Gear Foundation",
+        "href": "/foundation",
+        "docId": "foundation"
+      },
+      {
+        "type": "link",
+        "label": "Key milestones",
+        "href": "/milestones",
+        "docId": "milestones"
+      },
+      {
+        "type": "link",
+        "label": "Conclusion",
+        "href": "/conclusion",
+        "docId": "conclusion"
       }
     ]
   },
@@ -105,8 +141,20 @@
     },
     "components": {
       "id": "components",
-      "title": "components",
-      "description": "",
+      "title": "Gear components",
+      "description": "Messages are the main interface for communications between actors (users and programs). Every Gear program contains code for processing an incoming message. During message processing, programs can send messages to other programs and users including replying to the initial message.",
+      "sidebar": "tutorialSidebar"
+    },
+    "conclusion": {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "description": "In this document we covered the main questions related to Gear’s mission, technology and competitive advantages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "foundation": {
+      "id": "foundation",
+      "title": "Gear Foundation",
+      "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent company intended to fund and support the development and growth of the Gear network.",
       "sidebar": "tutorialSidebar"
     },
     "introduction": {
@@ -115,16 +163,28 @@
       "description": "World Wide Web",
       "sidebar": "tutorialSidebar"
     },
+    "milestones": {
+      "id": "milestones",
+      "title": "Key milestones",
+      "description": "Development of Core functionality → Test network launch → Development of smart contract examples → Code audit → Production network launch → Kusama parachain → Polkadot parachain → Continue ecosystem growth → to the moon…",
+      "sidebar": "tutorialSidebar"
+    },
     "nodes": {
       "id": "nodes",
-      "title": "nodes",
-      "description": "",
+      "title": "Gear Nodes",
+      "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
       "sidebar": "tutorialSidebar"
     },
     "onboarding": {
       "id": "onboarding",
-      "title": "onboarding",
-      "description": "",
+      "title": "Onboarding - Wiki, Gear Idea",
+      "description": "We think that the key to success and wide adoption of the Gear technology lies in ease of use and fast onboarding of our end customers - smart contract developers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "parachain": {
+      "id": "parachain",
+      "title": "Gear as a parachain",
+      "description": "Today Polkadot is one of the fastest growing multi-chain networks. Nevertheless, it is not a smart contract platform by design. The Polkadot relay chain itself does not not support smart contracts. The critical aspect of the Polkadot network is its ability to route arbitrary messages between chains. The use of these messages enables a negotiation channel between two parachains via sending asynchronous messages through it.",
       "sidebar": "tutorialSidebar"
     },
     "technology/actor-model": {
@@ -169,10 +229,22 @@
       "description": "WebAssembly (or WASM) is a standard developed by W3C Community Group, which defines a low-level binary code format for executable programs and can run as a standalone virtual machine.",
       "sidebar": "tutorialSidebar"
     },
+    "token": {
+      "id": "token",
+      "title": "Gear native token",
+      "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+      "sidebar": "tutorialSidebar"
+    },
     "upgrade": {
       "id": "upgrade",
-      "title": "upgrade",
-      "description": "",
+      "title": "Network upgrade",
+      "description": "As any software system, blockchains tend to update with security patches or other changes in the code. First blockchains had to create a fork in order to update. Each fork causes lack of stability as well as price volatility. It is difficult to coordinate updates that should be agreed by the whole community in the decentralized system.",
+      "sidebar": "tutorialSidebar"
+    },
+    "usecases": {
+      "id": "usecases",
+      "title": "Gear applicability and use cases",
+      "description": "There are many use cases for developing dApps on Gear. We’ll briefly detail some of the most popular and explain why each one has the potential to cause significant global disruption.",
       "sidebar": "tutorialSidebar"
     }
   }

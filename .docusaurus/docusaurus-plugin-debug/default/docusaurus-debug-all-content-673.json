@@ -45,8 +45,8 @@
             {
               "unversionedId": "components",
               "id": "components",
-              "title": "components",
-              "description": "",
+              "title": "Gear components",
+              "description": "Messages are the main interface for communications between actors (users and programs). Every Gear program contains code for processing an incoming message. During message processing, programs can send messages to other programs and users including replying to the initial message.",
               "source": "@site/docs/components.md",
               "sourceDirName": ".",
               "slug": "/components",
@@ -54,15 +54,72 @@
               "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/components.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Gear components",
+                "sidebar_position": 4,
+                "sidebar_label": "Gear components"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Balance transfers and gas economy",
                 "permalink": "/technology/gas-balance"
               },
               "next": {
-                "title": "nodes",
+                "title": "Gear Nodes",
                 "permalink": "/nodes"
+              }
+            },
+            {
+              "unversionedId": "conclusion",
+              "id": "conclusion",
+              "title": "Conclusion",
+              "description": "In this document we covered the main questions related to Gear’s mission, technology and competitive advantages.",
+              "source": "@site/docs/conclusion.md",
+              "sourceDirName": ".",
+              "slug": "/conclusion",
+              "permalink": "/conclusion",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/conclusion.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "title": "Conclusion",
+                "sidebar_position": 13,
+                "sidebar_label": "Conclusion"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Key milestones",
+                "permalink": "/milestones"
+              }
+            },
+            {
+              "unversionedId": "foundation",
+              "id": "foundation",
+              "title": "Gear Foundation",
+              "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent company intended to fund and support the development and growth of the Gear network.",
+              "source": "@site/docs/foundation.md",
+              "sourceDirName": ".",
+              "slug": "/foundation",
+              "permalink": "/foundation",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/foundation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "title": "Gear Foundation",
+                "sidebar_position": 11,
+                "sidebar_label": "Gear Foundation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gear applicability and use cases",
+                "permalink": "/usecases"
+              },
+              "next": {
+                "title": "Key milestones",
+                "permalink": "/milestones"
               }
             },
             {
@@ -93,10 +150,38 @@
               }
             },
             {
+              "unversionedId": "milestones",
+              "id": "milestones",
+              "title": "Key milestones",
+              "description": "Development of Core functionality → Test network launch → Development of smart contract examples → Code audit → Production network launch → Kusama parachain → Polkadot parachain → Continue ecosystem growth → to the moon…",
+              "source": "@site/docs/milestones.md",
+              "sourceDirName": ".",
+              "slug": "/milestones",
+              "permalink": "/milestones",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/milestones.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "title": "Key milestones",
+                "sidebar_position": 12,
+                "sidebar_label": "Key milestones"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gear Foundation",
+                "permalink": "/foundation"
+              },
+              "next": {
+                "title": "Conclusion",
+                "permalink": "/conclusion"
+              }
+            },
+            {
               "unversionedId": "nodes",
               "id": "nodes",
-              "title": "nodes",
-              "description": "",
+              "title": "Gear Nodes",
+              "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
               "source": "@site/docs/nodes.md",
               "sourceDirName": ".",
               "slug": "/nodes",
@@ -104,22 +189,27 @@
               "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/nodes.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Gear Nodes",
+                "sidebar_position": 5,
+                "sidebar_label": "Gear Nodes"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "components",
+                "title": "Gear components",
                 "permalink": "/components"
               },
               "next": {
-                "title": "onboarding",
-                "permalink": "/onboarding"
+                "title": "Network upgrade",
+                "permalink": "/upgrade"
               }
             },
             {
               "unversionedId": "onboarding",
               "id": "onboarding",
-              "title": "onboarding",
-              "description": "",
+              "title": "Onboarding - Wiki, Gear Idea",
+              "description": "We think that the key to success and wide adoption of the Gear technology lies in ease of use and fast onboarding of our end customers - smart contract developers.",
               "source": "@site/docs/onboarding.md",
               "sourceDirName": ".",
               "slug": "/onboarding",
@@ -127,15 +217,48 @@
               "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/onboarding.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Onboarding - Wiki, Gear Idea",
+                "sidebar_position": 7,
+                "sidebar_label": "Onboarding - Wiki, Gear Idea"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "nodes",
-                "permalink": "/nodes"
+                "title": "Network upgrade",
+                "permalink": "/upgrade"
               },
               "next": {
-                "title": "upgrade",
-                "permalink": "/upgrade"
+                "title": "Gear native token",
+                "permalink": "/token"
+              }
+            },
+            {
+              "unversionedId": "parachain",
+              "id": "parachain",
+              "title": "Gear as a parachain",
+              "description": "Today Polkadot is one of the fastest growing multi-chain networks. Nevertheless, it is not a smart contract platform by design. The Polkadot relay chain itself does not not support smart contracts. The critical aspect of the Polkadot network is its ability to route arbitrary messages between chains. The use of these messages enables a negotiation channel between two parachains via sending asynchronous messages through it.",
+              "source": "@site/docs/parachain.md",
+              "sourceDirName": ".",
+              "slug": "/parachain",
+              "permalink": "/parachain",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/parachain.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "title": "Gear as a parachain",
+                "sidebar_position": 9,
+                "sidebar_label": "Gear as a parachain"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gear native token",
+                "permalink": "/token"
+              },
+              "next": {
+                "title": "Gear applicability and use cases",
+                "permalink": "/usecases"
               }
             },
             {
@@ -218,7 +341,7 @@
                 "permalink": "/technology/wasm"
               },
               "next": {
-                "title": "components",
+                "title": "Gear components",
                 "permalink": "/components"
               }
             },
@@ -335,10 +458,38 @@
               }
             },
             {
+              "unversionedId": "token",
+              "id": "token",
+              "title": "Gear native token",
+              "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+              "source": "@site/docs/token.md",
+              "sourceDirName": ".",
+              "slug": "/token",
+              "permalink": "/token",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/token.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "title": "Gear native token",
+                "sidebar_position": 8,
+                "sidebar_label": "Gear native token"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Onboarding - Wiki, Gear Idea",
+                "permalink": "/onboarding"
+              },
+              "next": {
+                "title": "Gear as a parachain",
+                "permalink": "/parachain"
+              }
+            },
+            {
               "unversionedId": "upgrade",
               "id": "upgrade",
-              "title": "upgrade",
-              "description": "",
+              "title": "Network upgrade",
+              "description": "As any software system, blockchains tend to update with security patches or other changes in the code. First blockchains had to create a fork in order to update. Each fork causes lack of stability as well as price volatility. It is difficult to coordinate updates that should be agreed by the whole community in the decentralized system.",
               "source": "@site/docs/upgrade.md",
               "sourceDirName": ".",
               "slug": "/upgrade",
@@ -346,11 +497,48 @@
               "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/upgrade.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Network upgrade",
+                "sidebar_position": 6,
+                "sidebar_label": "Network upgrade"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "onboarding",
+                "title": "Gear Nodes",
+                "permalink": "/nodes"
+              },
+              "next": {
+                "title": "Onboarding - Wiki, Gear Idea",
                 "permalink": "/onboarding"
+              }
+            },
+            {
+              "unversionedId": "usecases",
+              "id": "usecases",
+              "title": "Gear applicability and use cases",
+              "description": "There are many use cases for developing dApps on Gear. We’ll briefly detail some of the most popular and explain why each one has the potential to cause significant global disruption.",
+              "source": "@site/docs/usecases.md",
+              "sourceDirName": ".",
+              "slug": "/usecases",
+              "permalink": "/usecases",
+              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/usecases.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "title": "Gear applicability and use cases",
+                "sidebar_position": 10,
+                "sidebar_label": "Gear applicability and use cases"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gear as a parachain",
+                "permalink": "/parachain"
+              },
+              "next": {
+                "title": "Gear Foundation",
+                "permalink": "/foundation"
               }
             }
           ],
@@ -409,19 +597,53 @@
               },
               {
                 "type": "doc",
-                "id": "components"
+                "id": "components",
+                "label": "Gear components"
               },
               {
                 "type": "doc",
-                "id": "nodes"
+                "id": "nodes",
+                "label": "Gear Nodes"
               },
               {
                 "type": "doc",
-                "id": "onboarding"
+                "id": "upgrade",
+                "label": "Network upgrade"
               },
               {
                 "type": "doc",
-                "id": "upgrade"
+                "id": "onboarding",
+                "label": "Onboarding - Wiki, Gear Idea"
+              },
+              {
+                "type": "doc",
+                "id": "token",
+                "label": "Gear native token"
+              },
+              {
+                "type": "doc",
+                "id": "parachain",
+                "label": "Gear as a parachain"
+              },
+              {
+                "type": "doc",
+                "id": "usecases",
+                "label": "Gear applicability and use cases"
+              },
+              {
+                "type": "doc",
+                "id": "foundation",
+                "label": "Gear Foundation"
+              },
+              {
+                "type": "doc",
+                "id": "milestones",
+                "label": "Key milestones"
+              },
+              {
+                "type": "doc",
+                "id": "conclusion",
+                "label": "Conclusion"
               }
             ]
           },

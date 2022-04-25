@@ -1,8 +1,8 @@
 {
   "unversionedId": "onboarding",
   "id": "onboarding",
-  "title": "onboarding",
-  "description": "",
+  "title": "Onboarding - Wiki, Gear Idea",
+  "description": "We think that the key to success and wide adoption of the Gear technology lies in ease of use and fast onboarding of our end customers - smart contract developers.",
   "source": "@site/docs/onboarding.md",
   "sourceDirName": ".",
   "slug": "/onboarding",
@@ -10,14 +10,19 @@
   "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/onboarding.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Onboarding - Wiki, Gear Idea",
+    "sidebar_position": 7,
+    "sidebar_label": "Onboarding - Wiki, Gear Idea"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nodes",
-    "permalink": "/nodes"
+    "title": "Network upgrade",
+    "permalink": "/upgrade"
   },
   "next": {
-    "title": "upgrade",
-    "permalink": "/upgrade"
+    "title": "Gear native token",
+    "permalink": "/token"
   }
 }

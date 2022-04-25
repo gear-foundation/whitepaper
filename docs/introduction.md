@@ -7,6 +7,8 @@ sidebar_position: 2
 
 Web1 was a read-only content delivery network. The user couldn’t interact with the page content as it was limited to what the content owner uploaded to the website.
 
+<!--- <img src="./img/web1.png" width="100" /> --->
+
 ![img alt](./img/web1.png)
 
 Web2 offers read and write capabilities, but has quickly become  dominated by technology giants and social media. The Web becomes interactive, but the content is still stored centralized.

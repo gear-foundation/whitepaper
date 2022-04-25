@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','b35'),
+    component: ComponentCreator('/','942'),
     routes: [
       {
         path: '/',
@@ -60,8 +60,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/conclusion',
+        component: ComponentCreator('/conclusion','80f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/foundation',
+        component: ComponentCreator('/foundation','89c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/introduction',
         component: ComponentCreator('/introduction','e7c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/milestones',
+        component: ComponentCreator('/milestones','3e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -74,6 +92,12 @@ export default [
       {
         path: '/onboarding',
         component: ComponentCreator('/onboarding','357'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/parachain',
+        component: ComponentCreator('/parachain','f47'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -120,8 +144,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/token',
+        component: ComponentCreator('/token','a1d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/upgrade',
         component: ComponentCreator('/upgrade','a11'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/usecases',
+        component: ComponentCreator('/usecases','2ed'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
