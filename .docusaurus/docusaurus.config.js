@@ -22,12 +22,12 @@ export default {
         "docs": {
           "path": "./docs",
           "routeBasePath": "/",
-          "sidebarPath": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\sidebars.js",
+          "sidebarPath": "/Users/eugeneway/work/whitepaper/sidebars.js",
           "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/"
         },
         "blog": false,
         "theme": {
-          "customCss": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\src\\css\\custom.css"
+          "customCss": "/Users/eugeneway/work/whitepaper/src/css/custom.css"
         }
       }
     ]

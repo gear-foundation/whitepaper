@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\sidebars.js",
-          "contentPath": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\docs",
-          "contentPathLocalized": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/Users/eugeneway/work/whitepaper/sidebars.js",
+          "contentPath": "/Users/eugeneway/work/whitepaper/docs",
+          "contentPathLocalized": "/Users/eugeneway/work/whitepaper/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "abstract",
