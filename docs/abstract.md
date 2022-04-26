@@ -16,6 +16,7 @@ slug: /
 <p align="center">
 Nikolay Volf, Andrei Panin   
 </p>
+
 <p align="center">
 <b>Version 0.1</b> | April 2022   
 </p>
