@@ -1,0 +1,25 @@
+{
+  "unversionedId": "abstract",
+  "id": "abstract",
+  "title": "abstract",
+  "description": "Gear: vision of the next-generation smart contract network",
+  "source": "@site/docs/abstract.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/abstract.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "hide_title": true,
+    "sidebar_position": 1,
+    "sidebar_label": "Abstract",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/introduction"
+  }
+}

@@ -10,17 +10,241 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Intro to Gear Whitepaper",
+        "label": "Abstract",
         "href": "/",
-        "docId": "intro"
+        "docId": "abstract"
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/introduction",
+        "docId": "introduction"
+      },
+      {
+        "type": "category",
+        "label": "Gear network technology",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Capabilities",
+            "href": "/technology/capabilities",
+            "docId": "technology/capabilities"
+          },
+          {
+            "type": "link",
+            "label": "Gear network state",
+            "href": "/technology/state",
+            "docId": "technology/state"
+          },
+          {
+            "type": "link",
+            "label": "State transition",
+            "href": "/technology/state-transition",
+            "docId": "technology/state-transition"
+          },
+          {
+            "type": "link",
+            "label": "Actor model",
+            "href": "/technology/actor-model",
+            "docId": "technology/actor-model"
+          },
+          {
+            "type": "link",
+            "label": "Memory parallelism",
+            "href": "/technology/parallelism",
+            "docId": "technology/parallelism"
+          },
+          {
+            "type": "link",
+            "label": "WebAssembly",
+            "href": "/technology/wasm",
+            "docId": "technology/wasm"
+          },
+          {
+            "type": "link",
+            "label": "Balance transfers and gas economy",
+            "href": "/technology/gas-balance",
+            "docId": "technology/gas-balance"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Gear components",
+        "href": "/components",
+        "docId": "components"
+      },
+      {
+        "type": "link",
+        "label": "Gear Nodes",
+        "href": "/nodes",
+        "docId": "nodes"
+      },
+      {
+        "type": "link",
+        "label": "Network upgrade",
+        "href": "/upgrade",
+        "docId": "upgrade"
+      },
+      {
+        "type": "link",
+        "label": "Onboarding - Wiki, Gear Idea",
+        "href": "/onboarding",
+        "docId": "onboarding"
+      },
+      {
+        "type": "link",
+        "label": "Gear native token",
+        "href": "/token",
+        "docId": "token"
+      },
+      {
+        "type": "link",
+        "label": "Gear as a parachain",
+        "href": "/parachain",
+        "docId": "parachain"
+      },
+      {
+        "type": "link",
+        "label": "Gear applicability and use cases",
+        "href": "/usecases",
+        "docId": "usecases"
+      },
+      {
+        "type": "link",
+        "label": "Gear Foundation",
+        "href": "/foundation",
+        "docId": "foundation"
+      },
+      {
+        "type": "link",
+        "label": "Key milestones",
+        "href": "/milestones",
+        "docId": "milestones"
+      },
+      {
+        "type": "link",
+        "label": "Conclusion",
+        "href": "/conclusion",
+        "docId": "conclusion"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Intro to Gear Whitepaper",
-      "description": "Here we go",
+    "abstract": {
+      "id": "abstract",
+      "title": "abstract",
+      "description": "Gear: vision of the next-generation smart contract network",
+      "sidebar": "tutorialSidebar"
+    },
+    "components": {
+      "id": "components",
+      "title": "Gear components",
+      "description": "Messages are the main interface for communications between actors (users and programs). Every Gear program contains code for processing an incoming message. During message processing, programs can send messages to other programs and users including replying to the initial message.",
+      "sidebar": "tutorialSidebar"
+    },
+    "conclusion": {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "description": "In this document we covered the main questions related to Gear’s mission, technology and competitive advantages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "foundation": {
+      "id": "foundation",
+      "title": "Gear Foundation",
+      "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent company intended to fund and support the development and growth of the Gear network.",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "World Wide Web",
+      "sidebar": "tutorialSidebar"
+    },
+    "milestones": {
+      "id": "milestones",
+      "title": "Key milestones",
+      "description": "Development of Core functionality → Test network launch → Development of smart contract examples → Code audit → Production network launch → Kusama parachain → Polkadot parachain → Continue ecosystem growth → to the moon…",
+      "sidebar": "tutorialSidebar"
+    },
+    "nodes": {
+      "id": "nodes",
+      "title": "Gear Nodes",
+      "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
+      "sidebar": "tutorialSidebar"
+    },
+    "onboarding": {
+      "id": "onboarding",
+      "title": "Onboarding - Wiki, Gear Idea",
+      "description": "We think that the key to success and wide adoption of the Gear technology lies in ease of use and fast onboarding of our end customers - smart contract developers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "parachain": {
+      "id": "parachain",
+      "title": "Gear as a parachain",
+      "description": "Today Polkadot is one of the fastest growing multi-chain networks. Nevertheless, it is not a smart contract platform by design. The Polkadot relay chain itself does not not support smart contracts. The critical aspect of the Polkadot network is its ability to route arbitrary messages between chains. The use of these messages enables a negotiation channel between two parachains via sending asynchronous messages through it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/actor-model": {
+      "id": "technology/actor-model",
+      "title": "Actor model",
+      "description": "One of the main challenges of concurrent systems is concurrency control. It defines the correct sequence of communications between different programs, and coordinates access to shared resources. Potential problems include race conditions, deadlocks, and resource starvation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/capabilities": {
+      "id": "technology/capabilities",
+      "title": "Capabilities",
+      "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear network.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/gas-balance": {
+      "id": "technology/gas-balance",
+      "title": "Balance transfers and gas economy",
+      "description": "Regular balance transfer is performed inside the Substrate Balances module. Balance is transferred between user, program and validator accounts.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/parallelism": {
+      "id": "technology/parallelism",
+      "title": "Memory parallelism",
+      "description": "Individual isolated memory space per program allows parallelization of message processing on a Gear node. The number of parallel processing streams equals the number of CPU cores. Each stream processes messages intended for a defined set of programs. It relates to messages sent from other programs or from outside influences, for instance, user’s transactions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/state": {
+      "id": "technology/state",
+      "title": "Gear network state",
+      "description": "As any blockchain system, Gear maintains distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/state-transition": {
+      "id": "technology/state-transition",
+      "title": "State transition",
+      "description": "Each system follows the rules according to which the state of the system evolves. As the network processes new input data, the state is advanced according to state transition rules. This input data is packed in atomic pieces of information called transactions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology/wasm": {
+      "id": "technology/wasm",
+      "title": "WebAssembly",
+      "description": "WebAssembly (or WASM) is a standard developed by W3C Community Group, which defines a low-level binary code format for executable programs and can run as a standalone virtual machine.",
+      "sidebar": "tutorialSidebar"
+    },
+    "token": {
+      "id": "token",
+      "title": "Gear native token",
+      "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+      "sidebar": "tutorialSidebar"
+    },
+    "upgrade": {
+      "id": "upgrade",
+      "title": "Network upgrade",
+      "description": "As any software system, blockchains tend to update with security patches or other changes in the code. First blockchains had to create a fork in order to update. Each fork causes lack of stability as well as price volatility. It is difficult to coordinate updates that should be agreed by the whole community in the decentralized system.",
+      "sidebar": "tutorialSidebar"
+    },
+    "usecases": {
+      "id": "usecases",
+      "title": "Gear applicability and use cases",
+      "description": "There are many use cases for developing dApps on Gear. We’ll briefly detail some of the most popular and explain why each one has the potential to cause significant global disruption.",
       "sidebar": "tutorialSidebar"
     }
   }

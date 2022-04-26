@@ -1,0 +1,28 @@
+{
+  "unversionedId": "technology/parallelism",
+  "id": "technology/parallelism",
+  "title": "Memory parallelism",
+  "description": "Individual isolated memory space per program allows parallelization of message processing on a Gear node. The number of parallel processing streams equals the number of CPU cores. Each stream processes messages intended for a defined set of programs. It relates to messages sent from other programs or from outside influences, for instance, user’s transactions.",
+  "source": "@site/docs/technology/parallelism.md",
+  "sourceDirName": "technology",
+  "slug": "/technology/parallelism",
+  "permalink": "/technology/parallelism",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/parallelism.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Memory parallelism",
+    "sidebar_position": 5,
+    "sidebar_label": "Memory parallelism"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Actor model",
+    "permalink": "/technology/actor-model"
+  },
+  "next": {
+    "title": "WebAssembly",
+    "permalink": "/technology/wasm"
+  }
+}

@@ -53,7 +53,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/gear-tech/wiki',
+            href: 'https://github.com/gear-tech/whitepaper',
             label: 'GitHub',
             position: 'right',
           },

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "token",
+  "id": "token",
+  "title": "Gear native token",
+  "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+  "source": "@site/docs/token.md",
+  "sourceDirName": ".",
+  "slug": "/token",
+  "permalink": "/token",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/token.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Gear native token",
+    "sidebar_position": 8,
+    "sidebar_label": "Gear native token"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding - Wiki, Gear Idea",
+    "permalink": "/onboarding"
+  },
+  "next": {
+    "title": "Gear as a parachain",
+    "permalink": "/parachain"
+  }
+}

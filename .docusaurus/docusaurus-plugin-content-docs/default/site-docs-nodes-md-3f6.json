@@ -1,0 +1,28 @@
+{
+  "unversionedId": "nodes",
+  "id": "nodes",
+  "title": "Gear Nodes",
+  "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
+  "source": "@site/docs/nodes.md",
+  "sourceDirName": ".",
+  "slug": "/nodes",
+  "permalink": "/nodes",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Gear Nodes",
+    "sidebar_position": 5,
+    "sidebar_label": "Gear Nodes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gear components",
+    "permalink": "/components"
+  },
+  "next": {
+    "title": "Network upgrade",
+    "permalink": "/upgrade"
+  }
+}

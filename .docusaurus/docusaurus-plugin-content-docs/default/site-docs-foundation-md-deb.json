@@ -1,0 +1,28 @@
+{
+  "unversionedId": "foundation",
+  "id": "foundation",
+  "title": "Gear Foundation",
+  "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent company intended to fund and support the development and growth of the Gear network.",
+  "source": "@site/docs/foundation.md",
+  "sourceDirName": ".",
+  "slug": "/foundation",
+  "permalink": "/foundation",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/foundation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Gear Foundation",
+    "sidebar_position": 11,
+    "sidebar_label": "Gear Foundation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gear applicability and use cases",
+    "permalink": "/usecases"
+  },
+  "next": {
+    "title": "Key milestones",
+    "permalink": "/milestones"
+  }
+}

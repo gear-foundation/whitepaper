@@ -1,0 +1,23 @@
+{
+  "unversionedId": "polka",
+  "id": "polka",
+  "title": "Polkadot",
+  "description": "Polka",
+  "source": "@site/docs/polka.md",
+  "sourceDirName": ".",
+  "slug": "/polka",
+  "permalink": "/polka",
+  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/polka.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Polkadot",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/introduction"
+  }
+}
