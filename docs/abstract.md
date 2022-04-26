@@ -13,6 +13,7 @@ slug: /
 </p>
 
 <br />
+
 <p align="center">
 Nikolay Volf, Andrei Panin   
 </p>
