@@ -14,21 +14,19 @@ slug: /
 
 <br />
 
-<p align="center">
+<div style={{textAlign: 'center'}}>
 Nikolay Volf, Andrei Panin   
-</p>
-
-<p align="center">
+<br />
 <b>Version 0.1</b> | April 2022   
-</p>
+</div>
 
 <br />
 <br />
 <br />
 
-<p align="center">
+<div style={{textAlign: 'center'}}>
 <h2> Abstract</h2>
-</p>
+</div>
 
 Blockchain, once viewed as an obscure and complex technology, is now widely known and starting to be used by a broad audience. Eventually, most relationships between people (trade, finance, legal, environments, entertainments etc) will have its foundations technically rooted on the blockchain. The rapid progress of this new and disruptive technology has been met with doubt and resistance, but innovation will continue forward and the world will be forced to adapt to the new reality enabled by this fundamental innovation.
 
