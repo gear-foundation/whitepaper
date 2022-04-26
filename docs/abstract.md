@@ -1,8 +1,32 @@
 ---
-title: Abstract
+hide_title: true
 sidebar_position: 1
+sidebar_label: 'Abstract'
 slug: /
 ---
+
+
+<center><img src="../img/title-grey.png" /></center>
+
+<p align="center">
+<h1> Gear: vision of the next-generation smart contract network</h1>
+</p>
+
+<br />
+<p align="center">
+Nikolay Volf, Andrei Panin   
+</p>
+<p align="center">
+<b>Version 0.1</b> | April 2022   
+</p>
+
+<br />
+<br />
+<br />
+
+<p align="center">
+<h2> Abstract</h2>
+</p>
 
 Blockchain, once viewed as an obscure and complex technology, is now widely known and starting to be used by a broad audience. Eventually, most relationships between people (trade, finance, legal, environments, entertainments etc) will have its foundations technically rooted on the blockchain. The rapid progress of this new and disruptive technology has been met with doubt and resistance, but innovation will continue forward and the world will be forced to adapt to the new reality enabled by this fundamental innovation.
 

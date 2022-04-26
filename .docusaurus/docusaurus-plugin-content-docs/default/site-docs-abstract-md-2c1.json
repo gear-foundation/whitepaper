@@ -1,8 +1,8 @@
 {
   "unversionedId": "abstract",
   "id": "abstract",
-  "title": "Abstract",
-  "description": "Blockchain, once viewed as an obscure and complex technology, is now widely known and starting to be used by a broad audience. Eventually, most relationships between people (trade, finance, legal, environments, entertainments etc) will have its foundations technically rooted on the blockchain. The rapid progress of this new and disruptive technology has been met with doubt and resistance, but innovation will continue forward and the world will be forced to adapt to the new reality enabled by this fundamental innovation.",
+  "title": "abstract",
+  "description": "Gear: vision of the next-generation smart contract network",
   "source": "@site/docs/abstract.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -12,8 +12,9 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Abstract",
+    "hide_title": true,
     "sidebar_position": 1,
+    "sidebar_label": "Abstract",
     "slug": "/"
   },
   "sidebar": "tutorialSidebar",

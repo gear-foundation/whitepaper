@@ -18,7 +18,7 @@ It must be noted that since **Gear** is under active development it makes this d
 
 ## Acknowledgments
 
-Many thanks to all of the reviewers and proof-readers. In particular, Pavel Salas, Dave Bean, Peter Volynskiy, Jack Dolby…
+Many thanks to all of the reviewers and proof-readers. In particular, Pavel Salas, Dave Bean, Peter Volynskiy, Jack Dolby.
 Thanks to all for contributing ideas and support.
 
 ## References

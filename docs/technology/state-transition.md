@@ -16,7 +16,8 @@ When a Gear validator node comes to produce a new block, some (or all) transacti
 - Balance transfers (**Gear** engine performs user-program-validator balance transfers)
 
 Message processing is performed in the reserved space of the block construction/import time. It is guaranteed that message processing will be executed in every block, and at least at some particular rate determined by current instance settings.
-![img alt](./img/message.jpg)
+
+<center><img src="../img/message.jpg" width="600" /></center>
 
 ## Create a program
 

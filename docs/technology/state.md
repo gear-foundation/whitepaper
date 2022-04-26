@@ -18,7 +18,8 @@ Programs (smart contracts) are first-class citizens in the **Gear** instance sta
 Program code is stored as an immutable Wasm blob. Each program has a fixed amount of individual memory which is reserved for a program during its initialization and persists between message-handling (so-called static area). **Gear** instance holds individual memory space per program and guarantees its persistence.
 
 A program can read and write only within its own exclusively allocated memory space and has no access to the memory space of other programs. Individual memory space is reserved for a program during its initialization and does not require additional fee (included in the program initialization fee).
-![img alt](./img/memory.jpg)
+
+<center><img src="../img/memory.jpg" width="350" /></center>
 
 Programs can allocate more memory from the memory pool provided by a **Gear** instance. A program can allocate the required amount of memory pages in blocks of 64KB. Each additional memory block allocation requires a gas fee.
 

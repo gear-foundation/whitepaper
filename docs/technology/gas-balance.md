@@ -31,7 +31,8 @@ Before the message processing step, some funds are reserved on the message initi
 The message processing consists of two steps:
 1. Post message
 2. Dispatch message
-![img alt](./img/balance-transfers.jpg)
+
+<center><img src="../img/balance-transfers.jpg" width="600" /></center>
 
 ### Post message
 
