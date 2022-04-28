@@ -99,7 +99,7 @@
               "unversionedId": "foundation",
               "id": "foundation",
               "title": "Gear Foundation",
-              "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent company intended to fund and support the development and growth of the Gear network.",
+              "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent nonprofit foundation intended to support the development and usage of the Gear network.",
               "source": "@site/docs/foundation.md",
               "sourceDirName": ".",
               "slug": "/foundation",
