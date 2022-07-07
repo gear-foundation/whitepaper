@@ -8,8 +8,9 @@ Each system follows the rules according to which the state of the system evolves
 
 **Gear** nodes maintain and synchronize a transaction pool which contains all those new transactions. When any node (validator or not) receives a transaction, the node propagates the transaction to all connected nodes. For advanced reading how the transaction pool operates, refer to [Substrate Documentation](https://docs.substrate.io/v3/concepts/tx-pool/).
 
-When a Gear validator node comes to produce a new block, some (or all) transactions from the pool are merged into a block and the network undergoes a state transition via this block. Transactions that were not taken in the last block remain in the pool until the next block is produced.
-**Gear** supports the following types of transactions:
+When a **Gear** validator node comes to produce a new block, some (or all) transactions from the pool are merged into a block and the network undergoes a state transition via this block. Transactions that were not taken in the last block remain in the pool until the next block is produced.
+
+A **Gear Network** supports the following types of transactions:
 - Create a program (user uploads new program(s) - smart-contracts)
 - Send a message (program or user fills the message queue)
 - Dequeue messages (validators (block producers) dequeue multiple messages, running associated programs)
@@ -21,11 +22,11 @@ Message processing is performed in the reserved space of the block construction/
 
 ## Create a program
 
-Designated authorities (or any user for public implementation) of Gear network can propose a new program to be saved to the state. For public networks, a balance associated with a program is also provided. This new balance then constitutes the initial balance (Existential Deposit). 
+Designated authorities (or any user for public implementation) of a **Gear Network** can propose a new program to be saved to the state. For a public network, a balance associated with a program is also provided. This new balance then constitutes the initial balance (Existential Deposit). 
 
 ## Send a message
 
-End-users interact with programs via sending messages to the Gear network. Messages sent to the Gear network fill up the global message queue. This queue can be viewed as a runtime-driven transaction queue but with the guarantee that any message accepted into it will eventually be processed. Putting a message in the queue is not free and therefore a message is guaranteed to be dispatched.
+End-users interact with programs via sending messages to a **Gear Network**. Messages sent to a **Gear Network** fill up the global message queue. This queue can be viewed as a runtime-driven transaction queue but with the guarantee that any message accepted into it will eventually be processed. Putting a message in the queue is not free and therefore a message is guaranteed to be dispatched.
 
 Programs also exchange messages with each other. The result of the received message can be another message (reply) addressed to another program or a user or a designated behavior to be used for the next message it receives. A program can also send a message the execution result of which will be a creation of another program.
 

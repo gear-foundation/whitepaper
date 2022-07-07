@@ -2,7 +2,7 @@
   "unversionedId": "nodes",
   "id": "nodes",
   "title": "Gear Nodes",
-  "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
+  "description": "Gear node provides runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear Network (collators and validators).",
   "source": "@site/docs/nodes.md",
   "sourceDirName": ".",
   "slug": "/nodes",

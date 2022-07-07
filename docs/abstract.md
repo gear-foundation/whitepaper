@@ -17,7 +17,7 @@ slug: /
 <div style={{textAlign: 'center'}}>
 Nikolay Volf, Andrei Panin   
 <br />
-<b>Version 0.1</b> | April 2022   
+<b>Version 1.0</b> | April 2022   
 </div>
 
 <br />
@@ -32,7 +32,7 @@ Blockchain, once viewed as an obscure and complex technology, is now widely know
 
 However, the adoption of new technology has been limited by well-known technical problems of the first generations of blockchains that lead to poor scalability, high transaction costs, and lack of inter-networks communication.
 
-Modern blockchains offer solutions to improve upon these limitations. Gear, however, provides more than just the most efficient interface for developing decentralized applications and running them as fast and cheaply as possible on a decentralized network. It uses the Actor model under the hood, which gives the option of parallel computing and async messages by design. Combining this technical architecture with the use of WASM allows applications to run with  near-native speed.
+Modern blockchains offer solutions to improve upon these limitations. **Gear Protocol** (referred to throughout as simply “**Gear**”), however, provides more than just the most efficient interface for developing decentralized applications and running them as fast and cheaply as possible on a decentralized network. It uses the Actor model under the hood, which gives the option of parallel computing and async messages by design. Combining this technical architecture with the use of WASM allows applications to run with  near-native speed.
 
 In short, Gear offers significant advantages relative to other modern blockchains and Substrate-based platforms running dApps on WebAssembly, namely:
 1. More secure and robust due to utilizing Actor model for message communications between users and programs

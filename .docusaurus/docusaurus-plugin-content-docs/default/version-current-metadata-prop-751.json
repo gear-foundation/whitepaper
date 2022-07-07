@@ -22,7 +22,7 @@
       },
       {
         "type": "category",
-        "label": "Gear network technology",
+        "label": "Gear Protocol technology",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -34,7 +34,7 @@
           },
           {
             "type": "link",
-            "label": "Gear network state",
+            "label": "Gear Network state",
             "href": "/technology/state",
             "docId": "technology/state"
           },
@@ -154,7 +154,7 @@
     "foundation": {
       "id": "foundation",
       "title": "Gear Foundation",
-      "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent nonprofit foundation intended to support the development and usage of the Gear network.",
+      "description": "While Gear Technologies is a core contributor to the Gear Protocol, the Gear Foundation is an independent nonprofit foundation intended to support the development and usage of a Gear Network.",
       "sidebar": "tutorialSidebar"
     },
     "introduction": {
@@ -172,7 +172,7 @@
     "nodes": {
       "id": "nodes",
       "title": "Gear Nodes",
-      "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
+      "description": "Gear node provides runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear Network (collators and validators).",
       "sidebar": "tutorialSidebar"
     },
     "onboarding": {
@@ -196,7 +196,7 @@
     "technology/capabilities": {
       "id": "technology/capabilities",
       "title": "Capabilities",
-      "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear network.",
+      "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear Protocol.",
       "sidebar": "tutorialSidebar"
     },
     "technology/gas-balance": {
@@ -213,8 +213,8 @@
     },
     "technology/state": {
       "id": "technology/state",
-      "title": "Gear network state",
-      "description": "As any blockchain system, Gear maintains distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
+      "title": "Gear Network state",
+      "description": "As any blockchain system, a Gear Network maintains a distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
       "sidebar": "tutorialSidebar"
     },
     "technology/state-transition": {
@@ -232,7 +232,7 @@
     "token": {
       "id": "token",
       "title": "Gear native token",
-      "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+      "description": "Once fully deployed, a Gear Network will be fully governed by token holders. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. A Gear Network will have a staking mechanism, so running a node will also be incentivized.",
       "sidebar": "tutorialSidebar"
     },
     "upgrade": {

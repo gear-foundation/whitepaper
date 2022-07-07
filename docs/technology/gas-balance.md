@@ -6,7 +6,7 @@ sidebar_label: 'Balance transfers and gas economy'
 
 Regular balance transfer is performed inside the Substrate Balances module. Balance is transferred between user, program and validator accounts.
 
-In addition to regular balance transfer, the **Gear** network defines a gas balance transfer that is used to reward validator nodes for their work and allows the network to be protected from DoS attacks.
+In addition to regular balance transfer, a **Gear Network** defines a gas balance transfer that is used to reward validator nodes for their work and allows the network to be protected from DoS attacks.
 
 All interactions inside the **Gear** network are done via messaging. Messages on **Gear** have common interface with the following parameters:
 - _source account_
@@ -15,7 +15,7 @@ All interactions inside the **Gear** network are done via messaging. Messages on
 - _gas_limit_
 - _value_
 
-There are five types of messages used in Gear’s network:
+There are five types of messages used in **Gear’s** network:
 1. A special message from the user to upload a new program to the network. Payload must contain a Wasm file of the program itself. Target account must not be specified - it will be created as a part of Post message processing.
 2. From user To program
 3. From program To program
@@ -24,7 +24,7 @@ There are five types of messages used in Gear’s network:
 
 **Gear** nodes charge gas fees during message processing. 
 
-The last parameter of the send message function is a _value_ to be transferred to a target account. In the special message of the initial program upload (#1), _value_ will be transferred to a balance of the newly created account for the program.
+The last parameter of the send message function is a value to be transferred to a target account. In the special message of the initial program upload (#1), value will be transferred to a balance of the newly created account for the program.
 
 Before the message processing step, some funds are reserved on the message initiator's account for paying a small processing fee. This is the standard inclusion fee for the Substrate framework and its size depends on different factors. Refer to [Substrate Documentation](https://docs.substrate.io/v3/runtime/weights-and-fees/) for details.
 
@@ -36,7 +36,7 @@ The message processing consists of two steps:
 
 ### Post message
 
-The **Gear** network tries to post a message into the message queue transaction pool. To do this, the local validator node verifies that the message initiator account has enough balance to cover sending of _value_ and _gas_limit_.
+A **Gear Network** tries to post a message into the message queue transaction pool. To do this, the local validator node verifies that the message initiator account has enough balance to cover sending of _value_ and _gas_limit_.
 
 For an Upload program message type (#1), validators verify that the message's _gas_limit_ does not exceed the gas limit per block.
 

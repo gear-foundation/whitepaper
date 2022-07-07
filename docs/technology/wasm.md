@@ -16,7 +16,7 @@ One of the keys to greater adoption for any blockchain network is maximizing sca
 
 WASM significantly increases the speed of transactions, which contributes to improving efficiency. On top of this, WASM supports smart contracts that are written in different languages, which means that anyone can take an existing program or write a new one in a convenient language and compile it for execution in the WebAssembly virtual machine. This significantly increases application inclusivity compared to solutions based on domain specific languages.
 
-The key to realizing Polkadot’s vision of cross chain interconnection was found in WebAssembly: a generic and abstract machine specification that could mediate between blockchains with different runtimes (the chains’ application logic). Any Gear program (smart contract) is in WebAssembly format.
+The key to realizing Polkadot’s vision of cross chain interconnection was found in WebAssembly: a generic and abstract machine specification that could mediate between blockchains with different runtimes (the chains’ application logic). Any **Gear Network** program (smart contract) is in WebAssembly format.
 
 ## Security considerations
 

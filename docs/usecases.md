@@ -11,7 +11,7 @@ There are many use cases for developing dApps on **Gear**. We’ll briefly detai
 Decentralized Finance (DeFi) is a blockchain-based alternative to the current financial system. DeFi applications let you borrow, save, invest, trade, exchange and do much more with your money than traditional financial systems allow. 
 Whereas the current financial system is opaque, tightly controlled and outdated, DeFi empowers individuals by giving them personal control and visibility over their finances. This new financial market, which has fewer intermediaries, can potentially be very beneficial for its users.
 
-Thanks to the Gear’s architecture, scalability and features outlined in this document, transactions on the **Gear** network are processed at an enormous speed and as a result, have an insignificant fee. It makes launching smart contracts on the **Gear** network especially attractive for DeFi scenarios.
+Thanks to the **Gear’s** architecture, scalability and features outlined in this document, transactions on a Gear Network are processed at an enormous speed and as a result, have an insignificant fee. It makes launching smart contracts on a Gear Network especially attractive for DeFi scenarios.
 
 ### Decentralized Autonomous Organizations
 
@@ -38,6 +38,6 @@ Supply chain management traditionally suffered due to inefficient systems where 
 
 Years ago, software development moved from monolithic to microservice architecture. Addressing complexities of previous approach related to tightly coupled, interconnected code. In recent years, nanoservices have become mainstream to address known microservice complexity.
 
-Any general-purpose language nanoservice function compiled to Wasm can be uploaded as a program to **Gear**. **Gear** will execute the code to process a certain task within the necessary timeframe. **Gear** provides automatic seamless scalability according to the number of tasks necessary to process. You only pay for the resources your function consumes.
+Any general-purpose language nanoservice function compiled to Wasm can be uploaded as a program to **Gear Network** or a single node. **Gear** will execute the code to process a certain task within the necessary timeframe. **Gear** provides automatic seamless scalability according to the number of tasks necessary to process. You only pay for the resources your function consumes.
 
 In interaction with other nanoservices in **Gear**, you get an applicable architecture out of the box. Just focus on the pieces of code that matter to you, and **Gear** handles the rest.

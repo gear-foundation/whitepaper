@@ -99,7 +99,7 @@
               "unversionedId": "foundation",
               "id": "foundation",
               "title": "Gear Foundation",
-              "description": "While Gear Technologies are core contributors to the Gear protocol, the Gear Foundation is an independent nonprofit foundation intended to support the development and usage of the Gear network.",
+              "description": "While Gear Technologies is a core contributor to the Gear Protocol, the Gear Foundation is an independent nonprofit foundation intended to support the development and usage of a Gear Network.",
               "source": "@site/docs/foundation.md",
               "sourceDirName": ".",
               "slug": "/foundation",
@@ -182,7 +182,7 @@
               "unversionedId": "nodes",
               "id": "nodes",
               "title": "Gear Nodes",
-              "description": "Gear nodes provide runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear network (collators and validators).",
+              "description": "Gear node provides runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a Gear Network (collators and validators).",
               "source": "@site/docs/nodes.md",
               "sourceDirName": ".",
               "slug": "/nodes",
@@ -294,7 +294,7 @@
               "unversionedId": "technology/capabilities",
               "id": "technology/capabilities",
               "title": "Capabilities",
-              "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear network.",
+              "description": "Let’s consider the basic principles and components to better understand the technology behind the Gear Protocol.",
               "source": "@site/docs/technology/capabilities.md",
               "sourceDirName": "technology",
               "slug": "/technology/capabilities",
@@ -314,7 +314,7 @@
                 "permalink": "/introduction"
               },
               "next": {
-                "title": "Gear network state",
+                "title": "Gear Network state",
                 "permalink": "/technology/state"
               }
             },
@@ -377,8 +377,8 @@
             {
               "unversionedId": "technology/state",
               "id": "technology/state",
-              "title": "Gear network state",
-              "description": "As any blockchain system, Gear maintains distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
+              "title": "Gear Network state",
+              "description": "As any blockchain system, a Gear Network maintains a distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. Gear enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.",
               "source": "@site/docs/technology/state.md",
               "sourceDirName": "technology",
               "slug": "/technology/state",
@@ -388,9 +388,9 @@
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "title": "Gear network state",
+                "title": "Gear Network state",
                 "sidebar_position": 2,
-                "sidebar_label": "Gear network state"
+                "sidebar_label": "Gear Network state"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -422,7 +422,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Gear network state",
+                "title": "Gear Network state",
                 "permalink": "/technology/state"
               },
               "next": {
@@ -462,7 +462,7 @@
               "unversionedId": "token",
               "id": "token",
               "title": "Gear native token",
-              "description": "Once fully deployed, the Gear network will be fully governed by token owners. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. Gear will have a staking mechanism, so running a node will also be incentivized.",
+              "description": "Once fully deployed, a Gear Network will be fully governed by token holders. Gear is completely open-source. Vast majority of the tokens will be held by the community and incentivized team. A Gear Network will have a staking mechanism, so running a node will also be incentivized.",
               "source": "@site/docs/token.md",
               "sourceDirName": ".",
               "slug": "/token",
@@ -556,7 +556,7 @@
               },
               {
                 "type": "category",
-                "label": "Gear network technology",
+                "label": "Gear Protocol technology",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -568,7 +568,7 @@
                   {
                     "type": "doc",
                     "id": "technology/state",
-                    "label": "Gear network state"
+                    "label": "Gear Network state"
                   },
                   {
                     "type": "doc",
