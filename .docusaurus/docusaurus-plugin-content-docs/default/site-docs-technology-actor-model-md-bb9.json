@@ -7,14 +7,15 @@
   "sourceDirName": "technology",
   "slug": "/technology/actor-model",
   "permalink": "/technology/actor-model",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/actor-model.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "title": "Actor model",
     "sidebar_position": 4,
-    "sidebar_label": "Actor model"
+    "sidebar_label": "Actor model",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

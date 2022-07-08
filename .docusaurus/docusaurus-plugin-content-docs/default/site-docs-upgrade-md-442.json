@@ -7,14 +7,15 @@
   "sourceDirName": ".",
   "slug": "/upgrade",
   "permalink": "/upgrade",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/upgrade.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
     "title": "Network upgrade",
     "sidebar_position": 6,
-    "sidebar_label": "Network upgrade"
+    "sidebar_label": "Network upgrade",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -2,6 +2,7 @@
 title: Capabilities
 sidebar_position: 1
 sidebar_label: 'Capabilities'
+custom_edit_url: null
 ---
 
 Let’s consider the basic principles and components to better understand the technology behind the Gear Protocol.

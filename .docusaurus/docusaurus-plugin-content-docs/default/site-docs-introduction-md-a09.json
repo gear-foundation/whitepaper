@@ -7,13 +7,14 @@
   "sourceDirName": ".",
   "slug": "/introduction",
   "permalink": "/introduction",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/introduction.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Introduction",
-    "sidebar_position": 2
+    "sidebar_position": 2,
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -7,14 +7,15 @@
   "sourceDirName": ".",
   "slug": "/token",
   "permalink": "/token",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/token.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
   "frontMatter": {
     "title": "Gear native token",
     "sidebar_position": 8,
-    "sidebar_label": "Gear native token"
+    "sidebar_label": "Gear native token",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -7,14 +7,15 @@
   "sourceDirName": ".",
   "slug": "/onboarding",
   "permalink": "/onboarding",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/onboarding.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
   "frontMatter": {
     "title": "Onboarding - Wiki, Gear Idea",
     "sidebar_position": 7,
-    "sidebar_label": "Onboarding - Wiki, Gear Idea"
+    "sidebar_label": "Onboarding - Wiki, Gear Idea",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

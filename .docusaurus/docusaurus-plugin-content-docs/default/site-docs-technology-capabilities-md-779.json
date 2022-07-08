@@ -7,14 +7,15 @@
   "sourceDirName": "technology",
   "slug": "/technology/capabilities",
   "permalink": "/technology/capabilities",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/capabilities.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Capabilities",
     "sidebar_position": 1,
-    "sidebar_label": "Capabilities"
+    "sidebar_label": "Capabilities",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -7,14 +7,15 @@
   "sourceDirName": ".",
   "slug": "/nodes",
   "permalink": "/nodes",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/nodes.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
     "title": "Gear Nodes",
     "sidebar_position": 5,
-    "sidebar_label": "Gear Nodes"
+    "sidebar_label": "Gear Nodes",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

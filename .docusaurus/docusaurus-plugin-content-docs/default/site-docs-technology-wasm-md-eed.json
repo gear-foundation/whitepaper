@@ -7,14 +7,15 @@
   "sourceDirName": "technology",
   "slug": "/technology/wasm",
   "permalink": "/technology/wasm",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/wasm.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
     "title": "WebAssembly",
     "sidebar_position": 6,
-    "sidebar_label": "WebAssembly"
+    "sidebar_label": "WebAssembly",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

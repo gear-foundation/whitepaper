@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\sidebars.js",
-          "contentPath": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\docs",
-          "contentPathLocalized": "C:\\Users\\apsln\\Documents\\GitHub\\whitepaper\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/Users/eugeneway/work/whitepaper/sidebars.js",
+          "contentPath": "/Users/eugeneway/work/whitepaper/docs",
+          "contentPathLocalized": "/Users/eugeneway/work/whitepaper/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "abstract",
@@ -27,7 +27,7 @@
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/abstract.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -35,6 +35,7 @@
                 "hide_title": true,
                 "sidebar_position": 1,
                 "sidebar_label": "Abstract",
+                "custom_edit_url": null,
                 "slug": "/"
               },
               "sidebar": "tutorialSidebar",
@@ -52,14 +53,15 @@
               "sourceDirName": ".",
               "slug": "/components",
               "permalink": "/components",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/components.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "title": "Gear components",
                 "sidebar_position": 4,
-                "sidebar_label": "Gear components"
+                "sidebar_label": "Gear components",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -80,14 +82,15 @@
               "sourceDirName": ".",
               "slug": "/conclusion",
               "permalink": "/conclusion",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/conclusion.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 13,
               "frontMatter": {
                 "title": "Conclusion",
                 "sidebar_position": 13,
-                "sidebar_label": "Conclusion"
+                "sidebar_label": "Conclusion",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -104,14 +107,15 @@
               "sourceDirName": ".",
               "slug": "/foundation",
               "permalink": "/foundation",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/foundation.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 11,
               "frontMatter": {
                 "title": "Gear Foundation",
                 "sidebar_position": 11,
-                "sidebar_label": "Gear Foundation"
+                "sidebar_label": "Gear Foundation",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -132,13 +136,14 @@
               "sourceDirName": ".",
               "slug": "/introduction",
               "permalink": "/introduction",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/introduction.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "Introduction",
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -159,14 +164,15 @@
               "sourceDirName": ".",
               "slug": "/milestones",
               "permalink": "/milestones",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/milestones.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 12,
               "frontMatter": {
                 "title": "Key milestones",
                 "sidebar_position": 12,
-                "sidebar_label": "Key milestones"
+                "sidebar_label": "Key milestones",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -187,14 +193,15 @@
               "sourceDirName": ".",
               "slug": "/nodes",
               "permalink": "/nodes",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/nodes.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
                 "title": "Gear Nodes",
                 "sidebar_position": 5,
-                "sidebar_label": "Gear Nodes"
+                "sidebar_label": "Gear Nodes",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -215,14 +222,15 @@
               "sourceDirName": ".",
               "slug": "/onboarding",
               "permalink": "/onboarding",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/onboarding.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
                 "title": "Onboarding - Wiki, Gear Idea",
                 "sidebar_position": 7,
-                "sidebar_label": "Onboarding - Wiki, Gear Idea"
+                "sidebar_label": "Onboarding - Wiki, Gear Idea",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -243,14 +251,15 @@
               "sourceDirName": ".",
               "slug": "/parachain",
               "permalink": "/parachain",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/parachain.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
               "frontMatter": {
                 "title": "Gear as a parachain",
                 "sidebar_position": 9,
-                "sidebar_label": "Gear as a parachain"
+                "sidebar_label": "Gear as a parachain",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -271,14 +280,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/actor-model",
               "permalink": "/technology/actor-model",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/actor-model.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "title": "Actor model",
                 "sidebar_position": 4,
-                "sidebar_label": "Actor model"
+                "sidebar_label": "Actor model",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -299,14 +309,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/capabilities",
               "permalink": "/technology/capabilities",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/capabilities.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "title": "Capabilities",
                 "sidebar_position": 1,
-                "sidebar_label": "Capabilities"
+                "sidebar_label": "Capabilities",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -327,14 +338,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/gas-balance",
               "permalink": "/technology/gas-balance",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/gas-balance.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
                 "title": "Balance transfers and gas economy",
                 "sidebar_position": 7,
-                "sidebar_label": "Balance transfers and gas economy"
+                "sidebar_label": "Balance transfers and gas economy",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -355,14 +367,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/parallelism",
               "permalink": "/technology/parallelism",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/parallelism.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
                 "title": "Memory parallelism",
                 "sidebar_position": 5,
-                "sidebar_label": "Memory parallelism"
+                "sidebar_label": "Memory parallelism",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -383,14 +396,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/state",
               "permalink": "/technology/state",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/state.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "Gear Network state",
                 "sidebar_position": 2,
-                "sidebar_label": "Gear Network state"
+                "sidebar_label": "Gear Network state",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -411,14 +425,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/state-transition",
               "permalink": "/technology/state-transition",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/state-transition.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "title": "State transition",
                 "sidebar_position": 3,
-                "sidebar_label": "State transition"
+                "sidebar_label": "State transition",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -439,14 +454,15 @@
               "sourceDirName": "technology",
               "slug": "/technology/wasm",
               "permalink": "/technology/wasm",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/wasm.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "title": "WebAssembly",
                 "sidebar_position": 6,
-                "sidebar_label": "WebAssembly"
+                "sidebar_label": "WebAssembly",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -467,14 +483,15 @@
               "sourceDirName": ".",
               "slug": "/token",
               "permalink": "/token",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/token.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
                 "title": "Gear native token",
                 "sidebar_position": 8,
-                "sidebar_label": "Gear native token"
+                "sidebar_label": "Gear native token",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -495,14 +512,15 @@
               "sourceDirName": ".",
               "slug": "/upgrade",
               "permalink": "/upgrade",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/upgrade.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "title": "Network upgrade",
                 "sidebar_position": 6,
-                "sidebar_label": "Network upgrade"
+                "sidebar_label": "Network upgrade",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -523,14 +541,15 @@
               "sourceDirName": ".",
               "slug": "/usecases",
               "permalink": "/usecases",
-              "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/usecases.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
               "frontMatter": {
                 "title": "Gear applicability and use cases",
                 "sidebar_position": 10,
-                "sidebar_label": "Gear applicability and use cases"
+                "sidebar_label": "Gear applicability and use cases",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {

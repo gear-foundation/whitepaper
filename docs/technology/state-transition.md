@@ -2,6 +2,7 @@
 title: State transition
 sidebar_position: 3
 sidebar_label: 'State transition'
+custom_edit_url: null
 ---
 
 Each system follows the rules according to which the state of the system evolves. As the network processes new input data, the state is advanced according to state transition rules. This input data is packed in atomic pieces of information called transactions.

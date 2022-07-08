@@ -2,6 +2,7 @@
 title: Gear as a parachain
 sidebar_position: 9
 sidebar_label: 'Gear as a parachain'
+custom_edit_url: null
 ---
 
 Today Polkadot is one of the fastest growing multi-chain networks. Nevertheless, it is not a smart contract platform by design. The Polkadot relay chain itself does not not support smart contracts. The critical aspect of the Polkadot network is its ability to route arbitrary messages between chains. The use of these messages enables a negotiation channel between two parachains via sending asynchronous messages through it.

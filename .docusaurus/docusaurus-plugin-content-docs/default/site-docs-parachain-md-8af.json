@@ -7,14 +7,15 @@
   "sourceDirName": ".",
   "slug": "/parachain",
   "permalink": "/parachain",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/parachain.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 9,
   "frontMatter": {
     "title": "Gear as a parachain",
     "sidebar_position": 9,
-    "sidebar_label": "Gear as a parachain"
+    "sidebar_label": "Gear as a parachain",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {

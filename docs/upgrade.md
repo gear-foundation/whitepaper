@@ -2,6 +2,7 @@
 title: Network upgrade
 sidebar_position: 6
 sidebar_label: 'Network upgrade'
+custom_edit_url: null
 ---
 
 As any software system, blockchains tend to update with security patches or other changes in the code. First blockchains had to create a fork in order to update. Each fork causes lack of stability as well as price volatility. It is difficult to coordinate updates that should be agreed by the whole community in the decentralized system.

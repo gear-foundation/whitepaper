@@ -7,14 +7,15 @@
   "sourceDirName": "technology",
   "slug": "/technology/state-transition",
   "permalink": "/technology/state-transition",
-  "editUrl": "https://github.com/gear-tech/whitepaper/edit/master/docs/technology/state-transition.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "State transition",
     "sidebar_position": 3,
-    "sidebar_label": "State transition"
+    "sidebar_label": "State transition",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
