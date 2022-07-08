@@ -14,11 +14,11 @@ Typically, message passing concurrency has better performance characteristics th
 
 There are plenty of mathematical theories to understand message-passing systems, including the Actor model.
 
-For inter-process communications, Gear uses the Actor model approach. The popularity of the Actor model has increased and it has been used in many new programming languages, often as a first-class language concept. The principles of the Actor model is that programs never share their state and just exchange messages between each other.
+For inter-process communications, **Gear** uses the Actor model approach. The popularity of the Actor model has increased and it has been used in many new programming languages, often as a first-class language concept. The principles of the Actor model is that programs never share their state and just exchange messages between each other.
 
 Actors post a message that appears at the end of the message queue. Some small fee is taken for putting messages in the queue, enough to cover program load and dispatch caused by the message. Messages are dequeued by validator nodes and this repeats until gas_limit is reached.
 
-While in an ordinary Actor model, there is no guarantee on message ordering, Gear provides extra guarantees that the order of messages between two particular programs is preserved.
+While in an ordinary Actor model, there is no guarantee on message ordering, **Gear** provides extra guarantees that the order of messages between two particular programs is preserved.
 
 Using the Actor model approach provides a way to implement Actor-based concurrency inside program (smart-contract) logic. This can utilize various language constructs for asynchronous programming (for example, Futures and async/await in Rust).
 

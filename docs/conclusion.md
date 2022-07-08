@@ -4,9 +4,9 @@ sidebar_position: 13
 sidebar_label: 'Conclusion'
 ---
 
-In this document we covered the main questions related to Gear’s mission, technology and competitive advantages.
+In this document we covered the main questions related to **Gear’s** mission, technology and competitive advantages.
 
-The key to **Gear**’s technological innovation lies behind the novel cross-contract communication approach. **Gear** uses an Actor communication model and the WebAssembly VM, which enables parallel processing, exceptional speed and low transaction costs. WebAssembly VM is proven to be faster than any alternatives.
+The key to **Gear’s** technological innovation lies behind the novel cross-contract communication approach. **Gear** uses an Actor communication model and the WebAssembly VM, which enables parallel processing, exceptional speed and low transaction costs. WebAssembly VM is proven to be faster than any alternatives.
 
 The **Gear** standard library enables developers to build applications using pre-built and optimized constructs. This enables writing applications quickly, focusing on the business logic of the application, instead of writing and debugging code for a long time. In addition, it can push the emergence of new business scenarios and applications.
 
@@ -18,7 +18,7 @@ It must be noted that since **Gear** is under active development it makes this d
 
 ## Acknowledgments
 
-Many thanks to all of the reviewers and proof-readers. In particular, Pavel Salas, Dave Bean, Peter Volynskiy, Jack Dolby.
+Many thanks to all of the reviewers and proof-readers. In particular, Pavel Salas, Dave Bean, Peter Volynskiy, Jack Dolby, Britanny Cuthbert.
 Thanks to all for contributing ideas and support.
 
 ## References

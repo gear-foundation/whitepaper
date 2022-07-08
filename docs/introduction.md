@@ -27,11 +27,11 @@ This generates growth of engagement and adoption in the **Web3** ecosystem from 
 
 <center><img src="./img/web3-devs.png" /></center>
 
-Even though the mass adoption of **Web3** is only just getting started, venture capital demonstrates a rapid investment growth toward **Web3** projects.
+Even though the mass adoption of **Web3** is only just getting started, venture capital demonstrates a rapid investment growth toward **Web3** projects:
 
 <center><img src="./img/crypto-invest.png" /></center>
 
-Gear’s mission is to become an essential platform for building the **Web3** ecosystem.
+Gear was built for the purpose of becoming an essential platform for building the **Web3** ecosystem.
 
 ## First blockchains
 
@@ -44,8 +44,8 @@ At their core, blockchains store a history of transactions between parties in a 
 The very first mass-adopted blockchain, Bitcoin, has a single purpose - to provide a decentralized network that allows people to transfer and exchange value.
 
 Ethereum was a breakthrough technology built after Bitcoin. Its main intention is to provide a Layer-1 platform that allows developers to create decentralized applications. This breakthrough was done thanks to the introduction of the Smart Contract, which allowed not only to transfer or store value, but also to generate applications and add logic conditions. The constant rising in transaction costs gave birth to several blockchains with similar capabilities, but different applications.
-Some of the issues with the second generation of blockchain networks:
 
+Some of the issues with the second generation of blockchain networks:
 - Lack of scalability, low transaction speed, high transaction costs
 - Domain-specific development language (high barrier to entry)
 - Complex and inefficient native consensus protocols
@@ -79,13 +79,13 @@ Different parallel blockchains (parachains) are built on Substrate as well as Po
 
 Polkadot and its testnet Kusama are designed to be a fully extensible and scalable blockchain development, deployment and interaction test bed. It is built to be a largely future-proof harness able to assimilate new blockchain technology as it becomes available without over-complicated decentralized coordination or hard forks.
 
-As a smart contract platform built on Substrate, Gear is aiming to become a Polkadot and Kusama Layer-1 parachain. Gear enables developers to deploy their dApps in mere minutes in the easiest and most efficient way possible. This will enable developers to build dApps on both Polkadot and Kusama to take advantage of the benefits of each unique network without the traditional significant time and financial expense associated with doing so.
+As a smart contract platform built on Substrate, Gear was built so that it can be used to deploy a Layer-1 parachain on Polkadot or Kusama, or a standalone network independent of Polkadot or Kusama, any of which being a “**Gear Network**”. A **Gear Network** enables developers to deploy their dApps in mere minutes in the easiest and most efficient way possible. This will enable developers to build dApps on Polkadot and Kusama to take advantage of the benefits of each unique network without the traditional significant time and financial expense associated with doing so.
 
 Additional thoughts about Gear's role as a parachain of Polkadot/Kusama are discussed further after covering the technical aspects.
 
 ## Substrate
 
-The Substrate blockchain framework is an important component of the Polkadot network. It enables teams that want to create a new blockchain to not waste efforts on network implementation and consensus code by having to write it from scratch.
+The Substrate blockchain framework is an important component of the Polkadot network. It enables teams that want to create a new blockchain to not waste efforts on network implementation and consensus code by having to write it from scratch. 
 
 Substrate covers many aspects including - consensus mechanism (block finalization, validator voting system, fault-tolerance), networking layer (p2p connection, message sending and data replication functionality), full-node templates, database abstraction, client update mechanism through WASM (no hard forks) and other important modules.
 

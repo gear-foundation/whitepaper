@@ -13,7 +13,7 @@ export default {
   "onBrokenMarkdownLinks": "log",
   "onDuplicateRoutes": "log",
   "favicon": "/img/favicon-32x32.png",
-  "organizationName": "Gear Foundation",
+  "organizationName": "Gear Technologies",
   "projectName": "Whitepaper",
   "presets": [
     [
@@ -34,7 +34,7 @@ export default {
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
@@ -47,15 +47,14 @@ export default {
       },
       "items": [
         {
-          "href": "https://github.com/gear-tech/whitepaper",
-          "label": "GitHub",
+          "href": "https://gear-tech.io",
+          "label": "Gear-tech.io",
           "position": "right"
         },
         {
-          "type": "localeDropdown",
-          "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "href": "https://github.com/gear-tech/whitepaper",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false

@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: 'log',
   onDuplicateRoutes: 'log',
   favicon: '/img/favicon-32x32.png',
-  organizationName: 'Gear Foundation', // Usually your GitHub org/user name.
+  organizationName: 'Gear Technologies', // Usually your GitHub org/user name.
   projectName: 'Whitepaper', // Usually your repo name.
 
   presets: [
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
       },
       navbar: {
         title: 'Gear Whitepaper',
