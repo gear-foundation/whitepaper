@@ -47,15 +47,14 @@ export default {
       },
       "items": [
         {
-          "href": "https://github.com/gear-tech/whitepaper",
-          "label": "GitHub",
+          "href": "https://gear-tech.io",
+          "label": "Gear-tech.io",
           "position": "right"
         },
         {
-          "type": "localeDropdown",
-          "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "href": "https://github.com/gear-tech/whitepaper",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
