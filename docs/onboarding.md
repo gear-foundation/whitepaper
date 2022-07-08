@@ -2,6 +2,7 @@
 title: Onboarding - Wiki, Gear Idea
 sidebar_position: 7
 sidebar_label: 'Onboarding - Wiki, Gear Idea'
+custom_edit_url: null
 ---
 
 We think that the key to success and wide adoption of the **Gear** technology lies in ease of use and fast onboarding of our end customers - smart contract developers.

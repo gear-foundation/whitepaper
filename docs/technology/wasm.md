@@ -2,6 +2,7 @@
 title: WebAssembly
 sidebar_position: 6
 sidebar_label: 'WebAssembly'
+custom_edit_url: null
 ---
 
 WebAssembly (or WASM) is a standard developed by W3C Community Group, which defines a low-level binary code format for executable programs and can run as a standalone virtual machine.

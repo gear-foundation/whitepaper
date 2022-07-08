@@ -2,6 +2,7 @@
 title: Gear Foundation
 sidebar_position: 11
 sidebar_label: 'Gear Foundation'
+custom_edit_url: null
 ---
 
 While **Gear Technologies** is a core contributor to the **Gear Protocol**, the **Gear Foundation** is an independent nonprofit foundation intended to support the development and usage of a **Gear Network**. 

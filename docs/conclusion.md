@@ -2,6 +2,7 @@
 title: Conclusion
 sidebar_position: 13
 sidebar_label: 'Conclusion'
+custom_edit_url: null
 ---
 
 In this document we covered the main questions related to **Gear’s** mission, technology and competitive advantages.

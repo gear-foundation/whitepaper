@@ -2,6 +2,7 @@
 title: Gear Network state
 sidebar_position: 2
 sidebar_label: 'Gear Network state'
+custom_edit_url: null
 ---
 
 As any blockchain system, a **Gear Network** maintains a distributed state. Runtime code compiled to WebAssembly becomes a part of the blockchain’s storage state. **Gear** enables a defining feature of forkless runtime upgrades. The state is also guaranteed to be finalized if the finality gadget is used.

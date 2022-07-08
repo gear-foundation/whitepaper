@@ -2,6 +2,7 @@
 title: Balance transfers and gas economy
 sidebar_position: 7
 sidebar_label: 'Balance transfers and gas economy'
+custom_edit_url: null
 ---
 
 Regular balance transfer is performed inside the Substrate Balances module. Balance is transferred between user, program and validator accounts.

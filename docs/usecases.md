@@ -2,6 +2,7 @@
 title: Gear applicability and use cases
 sidebar_position: 10
 sidebar_label: 'Gear applicability and use cases'
+custom_edit_url: null
 ---
 
 There are many use cases for developing dApps on **Gear**. We’ll briefly detail some of the most popular and explain why each one has the potential to cause significant global disruption.
