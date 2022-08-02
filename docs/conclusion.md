@@ -1,6 +1,6 @@
 ---
 title: Conclusion
-sidebar_position: 13
+sidebar_position: 12
 sidebar_label: 'Conclusion'
 custom_edit_url: null
 ---

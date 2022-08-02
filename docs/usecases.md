@@ -12,7 +12,7 @@ There are many use cases for developing dApps on **Gear**. We’ll briefly detai
 Decentralized Finance (DeFi) is a blockchain-based alternative to the current financial system. DeFi applications let you borrow, save, invest, trade, exchange and do much more with your money than traditional financial systems allow. 
 Whereas the current financial system is opaque, tightly controlled and outdated, DeFi empowers individuals by giving them personal control and visibility over their finances. This new financial market, which has fewer intermediaries, can potentially be very beneficial for its users.
 
-Thanks to the **Gear’s** architecture, scalability and features outlined in this document, transactions on a Gear Network are processed at an enormous speed and as a result, have an insignificant fee. It makes launching smart contracts on a Gear Network especially attractive for DeFi scenarios.
+Thanks to the **Gear’s** architecture, scalability and features outlined in this document, transactions on a **Gear Network** are processed at an enormous speed and as a result, have an insignificant fee. It makes launching smart contracts on a **Gear Network** especially attractive for DeFi scenarios.
 
 ### Decentralized Autonomous Organizations
 
