@@ -20,7 +20,7 @@ Standard library for **Gear** smart contracts. Provides necessary and sufficient
 
 While `gcore` enables to achieve the more low-level smart-contract implementation, ‘gstd’ provides ready-to-use modules for convenience and the implementation of smart-contracts in the most secure and accurate way, which is recommended in most cases.
 
-`gstd` provides modules with sys calls related to the program execution flow and basic messaging functions wrapped from `gcore`, modules for **Gear** contracts asynchronous logiс - async messaging functions such as send a message and wait for reply, interrupt a program execution waiting for a reply on a previous message. It also provides common errors module, Gear's implementation of panic for memory allocation and other common Rust panic.
+`gstd` provides modules with sys calls related to the program execution flow and basic messaging functions wrapped from `gcore`, modules for **Gear** contracts asynchronous logiс - async messaging functions such as send a message and wait for reply, interrupt a program execution waiting for a reply on a previous message. It also provides common errors module, **Gear's** implementation of panic for memory allocation and other common Rust panic.
 
 ### `gtest`
 

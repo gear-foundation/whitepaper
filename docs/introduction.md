@@ -32,7 +32,7 @@ Even though the mass adoption of **Web3** is only just getting started, venture 
 
 <center><img src="./img/crypto-invest.png" /></center>
 
-Gear was built for the purpose of becoming an essential platform for building the **Web3** ecosystem.
+**Gear** was built for the purpose of becoming an essential platform for building the **Web3** ecosystem.
 
 ## First blockchains
 
@@ -80,9 +80,9 @@ Different parallel blockchains (parachains) are built on Substrate as well as Po
 
 Polkadot and its testnet Kusama are designed to be a fully extensible and scalable blockchain development, deployment and interaction test bed. It is built to be a largely future-proof harness able to assimilate new blockchain technology as it becomes available without over-complicated decentralized coordination or hard forks.
 
-As a smart contract platform built on Substrate, Gear was built so that it can be used to deploy a Layer-1 parachain on Polkadot or Kusama, or a standalone network independent of Polkadot or Kusama, any of which being a “**Gear Network**”. A **Gear Network** enables developers to deploy their dApps in mere minutes in the easiest and most efficient way possible. This will enable developers to build dApps on Polkadot and Kusama to take advantage of the benefits of each unique network without the traditional significant time and financial expense associated with doing so.
+As a smart contract platform built on Substrate, **Gear** was built so that it can be used to deploy a Layer-1 parachain on Polkadot or Kusama, or a standalone network independent of Polkadot or Kusama, any of which being a “**Gear Network**”. A **Gear Network** enables developers to deploy their dApps in mere minutes in the easiest and most efficient way possible. This will enable developers to build dApps on Polkadot and Kusama to take advantage of the benefits of each unique network without the traditional significant time and financial expense associated with doing so.
 
-Additional thoughts about Gear's role as a parachain of Polkadot/Kusama are discussed further after covering the technical aspects.
+Additional thoughts about **Gear's** role as a parachain of Polkadot/Kusama are discussed further after covering the technical aspects.
 
 ## Substrate
 
@@ -92,4 +92,4 @@ Substrate covers many aspects including - consensus mechanism (block finalizatio
 
 **Gear** uses the Substrate framework under the hood. This helps to cover the most desired requirements for enterprise-ready decentralized projects - fault tolerance, replication, tokenization, immutability, data security and production-ready cross-platform persistent database.
 
-**Gear** itself is implemented as a custom Substrate runtime introducing advanced native extensions (via host functions) for performance. Building a blockchain with Substrate allows Gear to be deployed as a parachain on any compatible relay chain such as Polkadot and Kusama.
+**Gear** itself is implemented as a custom Substrate runtime introducing advanced native extensions (via host functions) for performance. Building a blockchain with Substrate allows **Gear** to be deployed as a parachain on any compatible relay chain such as Polkadot and Kusama.
