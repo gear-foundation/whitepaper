@@ -38,6 +38,19 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh-cn'],
+    localeConfigs: {
+      'en': {
+        label: 'English',
+      },
+      'zh-cn': {
+        label: '简体中文'
+      }
+    }
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -60,6 +73,10 @@ const config = {
           {
             href: 'https://github.com/gear-tech',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
