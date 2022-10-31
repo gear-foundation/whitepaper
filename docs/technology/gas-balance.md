@@ -1,8 +1,6 @@
 ---
 title: Balance transfers and gas economy
 sidebar_position: 7
-sidebar_label: 'Balance transfers and gas economy'
-custom_edit_url: null
 ---
 
 Regular balance transfer is performed inside the Substrate Balances module. Balance is transferred between user, program and validator accounts.
@@ -23,7 +21,7 @@ There are five types of messages used in **Gear’s** network:
 4. From program To user
 5. From user To user
 
-**Gear** nodes charge gas fees during message processing. 
+**Gear** nodes charge gas fees during message processing.
 
 The last parameter of the send message function is a value to be transferred to a target account. In the special message of the initial program upload (#1), value will be transferred to a balance of the newly created account for the program.
 

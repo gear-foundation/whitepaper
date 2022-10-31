@@ -1,8 +1,6 @@
 ---
 title: Gear components
 sidebar_position: 4
-sidebar_label: 'Gear components'
-custom_edit_url: null
 ---
 
 Messages are the main interface for communications between actors (users and programs). Every **Gear** program contains code for processing an incoming message. During message processing, programs can send messages to other programs and users including replying to the initial message.
@@ -11,7 +9,7 @@ Messages are the main interface for communications between actors (users and pro
 
 ### `gcore`
 
-Low-level core library for **Gear** smart contracts. 
+Low-level core library for **Gear** smart contracts.
 Includes sys calls API related to the program execution flow - incoming message processing and synchronous message sending.
 
 ### `gstd`

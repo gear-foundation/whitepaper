@@ -1,7 +1,6 @@
 ---
 title: Introduction
 sidebar_position: 2
-custom_edit_url: null
 ---
 
 ## World Wide Web
@@ -86,7 +85,7 @@ Additional thoughts about **Gear's** role as a parachain of Polkadot/Kusama are 
 
 ## Substrate
 
-The Substrate blockchain framework is an important component of the Polkadot network. It enables teams that want to create a new blockchain to not waste efforts on network implementation and consensus code by having to write it from scratch. 
+The Substrate blockchain framework is an important component of the Polkadot network. It enables teams that want to create a new blockchain to not waste efforts on network implementation and consensus code by having to write it from scratch.
 
 Substrate covers many aspects including - consensus mechanism (block finalization, validator voting system, fault-tolerance), networking layer (p2p connection, message sending and data replication functionality), full-node templates, database abstraction, client update mechanism through WASM (no hard forks) and other important modules.
 

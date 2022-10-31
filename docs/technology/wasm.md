@@ -1,8 +1,6 @@
 ---
 title: WebAssembly
 sidebar_position: 6
-sidebar_label: 'WebAssembly'
-custom_edit_url: null
 ---
 
 WebAssembly (or WASM) is a standard developed by W3C Community Group, which defines a low-level binary code format for executable programs and can run as a standalone virtual machine.
@@ -13,7 +11,7 @@ WebAssembly’s main goal is to provide executable code in browsers with near na
 
 ## Wasm for blockchains
 
-One of the keys to greater adoption for any blockchain network is maximizing scalability. This is because increased speed and transactional throughput will result in lower transaction costs. 
+One of the keys to greater adoption for any blockchain network is maximizing scalability. This is because increased speed and transactional throughput will result in lower transaction costs.
 
 WASM significantly increases the speed of transactions, which contributes to improving efficiency. On top of this, WASM supports smart contracts that are written in different languages, which means that anyone can take an existing program or write a new one in a convenient language and compile it for execution in the WebAssembly virtual machine. This significantly increases application inclusivity compared to solutions based on domain specific languages.
 

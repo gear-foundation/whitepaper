@@ -1,8 +1,6 @@
 ---
 title: Memory parallelism
 sidebar_position: 5
-sidebar_label: 'Memory parallelism'
-custom_edit_url: null
 ---
 
 Individual isolated memory space per program allows parallelization of message processing on a **Gear** node. The number of parallel processing streams equals the number of CPU cores. Each stream processes messages intended for a defined set of programs. It relates to messages sent from other programs or from outside influences, for instance, user’s transactions.

@@ -1,8 +1,6 @@
 ---
 title: Actor model
 sidebar_position: 4
-sidebar_label: 'Actor model'
-custom_edit_url: null
 ---
 
 One of the main challenges of concurrent systems is concurrency control. It defines the correct sequence of communications between different programs, and coordinates access to shared resources. Potential problems include race conditions, deadlocks, and resource starvation.

@@ -1,8 +1,6 @@
 ---
 title: State transition
 sidebar_position: 3
-sidebar_label: 'State transition'
-custom_edit_url: null
 ---
 
 Each system follows the rules according to which the state of the system evolves. As the network processes new input data, the state is advanced according to state transition rules. This input data is packed in atomic pieces of information called transactions.
@@ -23,7 +21,7 @@ Message processing is performed in the reserved space of the block construction/
 
 ## Create a program
 
-Designated authorities (or any user for public implementation) of a **Gear Network** can propose a new program to be saved to the state. For a public network, a balance associated with a program is also provided. This new balance then constitutes the initial balance (Existential Deposit). 
+Designated authorities (or any user for public implementation) of a **Gear Network** can propose a new program to be saved to the state. For a public network, a balance associated with a program is also provided. This new balance then constitutes the initial balance (Existential Deposit).
 
 ## Send a message
 

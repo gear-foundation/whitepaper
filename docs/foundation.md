@@ -1,11 +1,9 @@
 ---
 title: Gear Foundation
 sidebar_position: 11
-sidebar_label: 'Gear Foundation'
-custom_edit_url: null
 ---
 
-While **Gear Technologies** is a core contributor to the **Gear Protocol**, the **Gear Foundation** is an independent nonprofit foundation intended to support the development and usage of a **Gear Network**. 
+While **Gear Technologies** is a core contributor to the **Gear Protocol**, the **Gear Foundation** is an independent nonprofit foundation intended to support the development and usage of a **Gear Network**.
 
 The **Gear Foundation’s** mission is to lower the barrier to entry for blockchain development, to introduce an entirely new pool of talented developers to the Web3 and blockchain industry, onboarding them to the innovative and interoperable Substrate ecosystem. We hope that this will spur adoption and usage of blockchain technology, unleashing the potential of the next evolution of the internet - Web3.
 

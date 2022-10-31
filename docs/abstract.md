@@ -1,8 +1,7 @@
 ---
 hide_title: true
 sidebar_position: 1
-sidebar_label: 'Abstract'
-custom_edit_url: null
+sidebar_label: Abstract
 slug: /
 ---
 
@@ -16,9 +15,9 @@ slug: /
 <br />
 
 <div style={{textAlign: 'center'}}>
-Nikolay Volf, Andrei Panin   
+Nikolay Volf, Andrei Panin
 <br />
-<b>Version 1.0</b> | April 2022   
+<b>Version 1.0</b> | April 2022
 </div>
 
 <br />
