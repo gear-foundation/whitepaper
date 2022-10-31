@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Whitepaper website',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Vision of the next-generation smart contract network',
   url: 'https://whitepaper.gear-tech.io',
   baseUrl: '/',
   trailingSlash: false,
@@ -27,8 +27,6 @@ const config = {
           path: './docs',
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/gear-tech/whitepaper/edit/master/',
         },
         blog: false,
         theme: {
@@ -58,7 +56,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/gear-tech',
+            href: 'https://github.com/gear-tech/whitepaper',
             label: 'GitHub',
             position: 'right',
           },

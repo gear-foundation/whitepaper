@@ -1,8 +1,6 @@
 ---
 title: Gear Nodes
 sidebar_position: 5
-sidebar_label: 'Gear Nodes'
-custom_edit_url: null
 ---
 
 **Gear** node provides runtime that helps smart contract developers in implementation and testing (personal node) as well as become a part of a **Gear Network** (collators and validators).
