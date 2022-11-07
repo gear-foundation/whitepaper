@@ -43,11 +43,11 @@ Programs also exchange messages with each other. The result of the received mess
 
 ## Send a reply
 
-The reply is similar to the message described above with the only difference that the reply can be sent only as a respond to the received message. User can send the reply to the message containing in his mailbox.
+The reply is similar to the message described above with the only difference that the reply can be sent only as a response to the received message. Users can send the reply to the message contained in their mailboxes.
 
 ## Claim a value from mailbox
 
-After receiving a message with associated value user is to claim this value to transfer it from the message to the user. Unclaimed value is to be returned to the sender after the message leaves the mailbox after its gas limit exhausts.
+After receiving a message with an associated value, the user has to claim this value to transfer it from the message to the user. Unclaimed value is to be returned to the sender after the message leaves the mailbox after its gas limit exhausts.
 
 ## Dequeue messages
 
