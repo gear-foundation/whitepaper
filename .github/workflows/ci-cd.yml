@@ -2,8 +2,12 @@ name: Build and Deploy whitepaper to k8s
 
 on:
   push:
-    branches: ['master']
+    branches: [master]
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 env:
   REGISTRY: ghcr.io
@@ -15,16 +19,8 @@ env:
   KUBE_NAMESPACE: whitepaper
 
 jobs:
-  wait-previous-run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: mktcode/consecutive-workflow-action@v1 # please read security note
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
   build-and-push-whitepaper-image:
     runs-on: ubuntu-latest
-    needs: [wait-previous-run]
     permissions:
       contents: read
       packages: write
@@ -45,7 +41,7 @@ jobs:
         with:
           push: true
           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
-  
+
   deploy-to-k8s:
     needs: build-and-push-whitepaper-image
     runs-on: ubuntu-latest
@@ -64,7 +60,7 @@ jobs:
           args: rollout restart deployment whitepaper -n $KUBE_NAMESPACE
 
   check-k8s-deployments:
-    needs: [deploy-to-k8s, wait-previous-run]
+    needs: deploy-to-k8s
     runs-on: ubuntu-latest
 
     steps:
