@@ -56,7 +56,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/gear-tech/whitepaper',
+            href: 'https://github.com/gear-tech/gear',
             label: 'GitHub',
             position: 'right',
           },
