@@ -13,7 +13,7 @@ Personal nodes means anyone’s device with Gear’s node up and running, connec
 
 ### Public Nodes
 
-Public nodes refer to devices that act as validators in a Gear public network. The nodes must run on a server that has a public IP address. Hardware requirements is the subject of evaluation. Nodes participating in the public network must share their real-time data for health checks (continuous telemetry collection).
+Public nodes refer to devices that act as validators in a Gear public network.  Gear node doesn't have any special hardware requirements excepting at least 64 Gbytes of free space on the SSD disk. Nodes participating in the public network must share their real-time data for health checks (continuous telemetry collection).
 
 ### Interaction with Gear Nodes
 
