@@ -67,6 +67,11 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['rust', 'toml'],
       },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+      },
+    },
     }),
 };
 
