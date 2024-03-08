@@ -1,27 +1,25 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 
 const lightCodeTheme = require('prism-react-renderer').themes.github
 const darkCodeTheme = require('prism-react-renderer').themes.dracula
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'Whitepaper website',
-  tagline: 'Vision of the next-generation smart contract network',
-  url: 'https://whitepaper.gear-tech.io',
+const config: Config = {
+  title: 'Gear Whitepaper',
+  url: 'https://whitepaper.gear.foundation/',
   baseUrl: '/',
-  trailingSlash: false,
+  favicon: '/img/favicon-32x32.png',
+  tagline: 'Vision of the next-generation smart contract network',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   onDuplicateRoutes: 'log',
-  favicon: '/img/favicon-32x32.png',
-  organizationName: 'Gear Technologies', // Usually your GitHub org/user name.
-  projectName: 'Whitepaper', // Usually your repo name.
+  organizationName: 'Gear Technologies', // Usually your GitHub org/username.
+  projectName: 'gear-whitepaper', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           path: './docs',
@@ -32,17 +30,16 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      }  satisfies Preset.Options),
     ],
   ],
 
   themeConfig:
-  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       colorMode: {
         defaultMode: 'light',
       },
-      image: 'img/wp-preview.jpg',
+      image: '/img/wp-preview.jpg',
       navbar: {
         title: 'Gear Whitepaper',
         logo: {
@@ -73,17 +70,7 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-    }),
-
-  headTags: [
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:image',
-        content: '/img/wp-preview.jpg',
-      },
-    },
-  ],
+    } satisfies Preset.ThemeConfig,
 }
 
-module.exports = config
+export default config
