@@ -42,6 +42,7 @@ const config = {
       colorMode: {
         defaultMode: 'light',
       },
+      image: 'img/wp-preview.jpg',
       navbar: {
         title: 'Gear Whitepaper',
         logo: {
