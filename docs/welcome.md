@@ -1,4 +1,5 @@
 ---
+title: ''
 hide_title: true
 sidebar_position: 1
 sidebar_label: Welcome!

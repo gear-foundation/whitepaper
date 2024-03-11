@@ -1,6 +1,5 @@
 {
-  "name": "my-website",
-  "version": "0.0.0",
+  "name": "gear-whitepaper",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -25,9 +24,11 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.0.0",
+    "@docusaurus/module-type-aliases": "^3.1.1",
+    "@docusaurus/tsconfig": "^3.1.1",
+    "@docusaurus/types": "^3.1.1",
     "@tsconfig/docusaurus": "^2.0.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.2"
   },
   "browserslist": {
     "production": [
