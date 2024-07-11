@@ -6,7 +6,6 @@ sidebar_label: Welcome!
 slug: /
 ---
 
-
 <img src="/img/title-grey.png"  alt="Gear Tech logo"/>
 
 <div align="center">
@@ -20,7 +19,7 @@ slug: /
 <div align="center">
     Nikolay Volf, Andrei Panin
     <br />
-    <b>Version 1.1</b> | February 2024
+    <b>Version 1.2</b> | July 2024
 </div>
 
 <br />

@@ -11,8 +11,8 @@ Gear is itself constructed as a custom Substrate runtime, building upon this fou
 - Substrate provides a robust security foundation, inheriting its features from the framework itself. Additionally, it allows customization of security mechanisms to cater to specific use cases.
 - Building upon pre-built core components within Substrate, Gear Protocol eliminates the need to start from scratch. This modular architecture simplifies integration of desired features, catering to your specific needs.
 - Leveraging Substrate's modular architecture, Gear Protocol tailors blockchains to specific needs. Upgrades are achieved seamlessly without hard forks, ensuring smooth transitions.
-- Gear Protocol can integrate with other Substrate-based chains and Polkadot, enabling effortless cross-chain communication and data exchange.
-- A thriving community offers ongoing resources, tutorials, and support. Notably, Gear's core developers actively contributed to Substrate and the Dotsama ecosystem, bringing invaluable expertise to Gear's development.
+- Gear Protocol can integrate with other Substrate-based chains, enabling effortless cross-chain communication and data exchange.
+- A thriving community offers ongoing resources, tutorials, and support. Notably, Gear's core developers actively contributed to the Substrate ecosystem, bringing invaluable expertise to Gear's development.
 
 ## Wasm Virtual Machine
 
@@ -24,7 +24,7 @@ Within the Gear ecosystem, a Rust standard library is currently provided for pro
 
 ## Interoperability
 
-Gear Protocol's design emphasizes interoperability at its core. With a Substrate foundation, chains deployed using Gear are inherently compatible with other Substrate-based networks, facilitating seamless integration as parachains. Beyond the Dotsama ecosystem, Gear networks can be engineered to interface with diverse blockchain networks, enabling a myriad of potential use cases. This interoperability empowers Gear Networks to facilitate transaction processing, data exchange, and interaction across various ecosystems, thereby fostering cross-chain collaborations and innovation opportunities.
+Gear Protocol's design emphasizes interoperability at its core. With a Substrate foundation, chains deployed using Gear are inherently compatible with other Substrate-based networks. Gear networks interoperability empowers them to facilitate transaction processing, data exchange, and interaction across various ecosystems, thereby fostering cross-chain collaborations and innovation opportunities.
 
 Gear also provides an API for connecting to Gear nodes, interacting with the network, and making queries via JavaScript, and as this is built on the Substrate layer, it ensures consistency across all Substrate-based networks. The Gear API is capable of connecting to local or remote nodes, retrieving node info, getting program metadata, signing messages, uploading programs, sending messages or replies, calculating gas spent for message processing, reading program states and user mailboxes, subscribing to events, and more. The Gear API accommodates synchronous and asynchronous messages as required by a program's logic.
 
