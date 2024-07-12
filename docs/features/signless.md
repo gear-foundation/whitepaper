@@ -1,6 +1,6 @@
 ---
 title: Signless Transactions
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 One of the most frustrating aspects of blockchain technology is the need for users to manually sign transactions. When interacting with digital applications, users must sign transactions with their private keys in order to send commands, such as requesting funds or taking actions in a game. This tedious process significantly hinders the adoption of blockchain applications, as users tend to prefer less secure but more convenient web2 services.
