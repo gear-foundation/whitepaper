@@ -1,6 +1,6 @@
 ---
 title: Gasless Transactions
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 Gear Protocol's capability to enable gasless transactions in decentralized applications (dApps) for end-users revolutionizes the Web3 landscape, fostering widespread adoption of dApps and aligning their user experience with the ease of use found in Web2 services.

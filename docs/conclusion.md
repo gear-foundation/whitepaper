@@ -28,11 +28,9 @@ https://github.com/gear-tech/gear
 
 https://docs.gear.rs/ 
 
-https://wiki.gear-tech.io/
+https://wiki.vara.network/ 
 
 https://vara.network/
-
-https://wiki.vara.network/ 
 
 https://idea.gear-tech.io/ 
 
