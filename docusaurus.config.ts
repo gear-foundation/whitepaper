@@ -5,16 +5,16 @@ const lightCodeTheme = require('prism-react-renderer').themes.github
 const darkCodeTheme = require('prism-react-renderer').themes.dracula
 
 const config: Config = {
-  title: 'Gear Whitepaper',
-  url: 'https://whitepaper.gear.foundation/',
+  title: 'Gear.exe Whitepaper',
+  url: 'https://gear-exe-wp.gear.foundation/',
   baseUrl: '/',
   favicon: '/img/favicon-32x32.png',
-  tagline: 'Vision of the next-generation smart contract network',
+  tagline: 'Vision of Decentralized Bridgeless Computing Extension to Ethereum Network',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   onDuplicateRoutes: 'log',
   organizationName: 'Gear Technologies', // Usually your GitHub org/username.
-  projectName: 'gear-whitepaper', // Usually your repo name.
+  projectName: 'Gear.exe-whitepaper', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
@@ -37,13 +37,13 @@ const config: Config = {
   themeConfig:
     {
       colorMode: {
-        defaultMode: 'light',
+        defaultMode: 'dark',
       },
       image: '/img/wp-preview.jpg',
       navbar: {
-        title: 'Gear Whitepaper',
+        title: 'Gear.exe Whitepaper',
         logo: {
-          alt: 'Gear Whitepaper website',
+          alt: 'Gear.exe Whitepaper website',
           src: 'img/logo-black.svg',
           srcDark: 'img/logo-white.svg',
         },
@@ -51,6 +51,11 @@ const config: Config = {
           {
             href: 'https://gear-tech.io',
             label: 'Gear-tech.io',
+            position: 'right',
+          },
+          {
+            href: 'https://vara.network',
+            label: 'Vara.network',
             position: 'right',
           },
           {
