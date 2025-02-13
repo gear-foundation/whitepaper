@@ -1,6 +1,7 @@
 ---
 title: Introducing Gear Protocol
 sidebar_position: 3
+description: ''
 ---
 
 Gear Protocol is an advanced Substrate-based Wasm programming platform. It was designed to enable developers to build and operate custom-logic decentralized applications (dApps) efficiently. The versatility of Gear Protocol makes it an ideal solution for a range of scenarios:

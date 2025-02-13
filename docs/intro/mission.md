@@ -1,6 +1,7 @@
 ---
 title: Background & Mission
 sidebar_position: 2
+description: ''
 ---
 
 The Internet began with **Web1**, a read-only content delivery network. Users could only consume what was offered by site owners, which significantly limited their interaction with the web content.

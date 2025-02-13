@@ -1,6 +1,7 @@
 ---
 title: Crypto Gaming
 sidebar_position: 2
+description: ''
 ---
 
 The gaming industry is the largest and fast-growing entertainment business. It is larger than the movie and music industries combined.

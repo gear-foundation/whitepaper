@@ -1,6 +1,7 @@
 ---
 title: Infrastructure
 sidebar_position: 3
+description: ''
 ---
 
 Gear opens doors for traditional and Web2 businesses, ensuring their transition into more transparent, reliable, and sustainable services using decentralized Web3 technology under the hood.

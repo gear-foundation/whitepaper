@@ -1,6 +1,7 @@
 ---
 title: Summary
 sidebar_position: 1
+description: ''
 ---
 
 Blockchain technology, previously seen as complex and niche, is now gaining wider recognition and use across different sectors. It's increasingly evident that the majority of human interactions - spanning trade, finance, legal matters, environment, and entertainment - are set to have their foundations deeply embedded in blockchain technology. Despite skepticism and pushback against this revolutionary innovation, the unstoppable tide of progress will continue, compelling the world to adapt to the transformative possibilities unlocked by blockchain.

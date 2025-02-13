@@ -1,6 +1,7 @@
 ---
 title: Substrate-based Wasm Programs Engine
 sidebar_position: 1
+description: ''
 ---
 
 Gear, as a platform for deploying and operating smart contracts, utilizes Substrate — a robust blockchain framework developed by Parity Technologies — in order to provide developers and users on Gear Networks with the best foundational technology available. Substrate's functionalities cover a wide range of crucial aspects, including consensus, networking layers and a client update mechanism that removes the need for hard forks.

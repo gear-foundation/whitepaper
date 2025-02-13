@@ -1,6 +1,7 @@
 ---
 title: The Actor Model & Microservices Architecture
 sidebar_position: 2
+description: ''
 ---
 
 Gear sets itself apart and paves the way for Web 2 and TradFi developers transitioning to blockchain technology. This is facilitated by its incorporation of principles from the microservice architecture and the Actor model.

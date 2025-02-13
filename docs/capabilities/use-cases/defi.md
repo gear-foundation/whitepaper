@@ -1,6 +1,7 @@
 ---
 title: Decentralized Finance
 sidebar_position: 4
+description: ''
 ---
 
 Decentralized Finance (DeFi) is a blockchain-based alternative to the current financial system. DeFi applications let you borrow, save, invest, trade, exchange, and do much more with your money than traditional financial systems allow. Whereas the current financial system is opaque, tightly controlled, and outdated - DeFi empowers individuals by giving them personal control and visibility over their finances. This new financial market, which has fewer intermediaries, can potentially be very beneficial for its users.

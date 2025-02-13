@@ -1,6 +1,7 @@
 ---
 title: Vara Network
 sidebar_position: 8
+description: ''
 ---
 
 The **[Vara Network](https://vara.network/)** is a stand-alone layer-1 decentralized network built and running on top of **Gear Protocol**.

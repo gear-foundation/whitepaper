@@ -1,6 +1,7 @@
 ---
 title: Overview
 sidebar_position: 1
+description: ''
 ---
 
 **Gear** enables individuals to create and execute custom-logic programs in a decentralized manner and more. 

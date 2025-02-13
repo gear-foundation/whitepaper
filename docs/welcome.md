@@ -4,6 +4,7 @@ hide_title: true
 sidebar_position: 1
 sidebar_label: Welcome!
 slug: /
+description: ''
 ---
 
 <img src="/img/title-grey.png"  alt="Gear Tech logo"/>
