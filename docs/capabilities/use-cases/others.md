@@ -1,6 +1,7 @@
 ---
 title: Other Use Cases
 sidebar_position: 7
+description: ''
 ---
 
 Years ago, software development moved from monolithic to microservice architecture. Addressing complexities of the previous approach related to tightly coupled, interconnected code. In recent years, nanoservices have become mainstream to address known microservice complexity.

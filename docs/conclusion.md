@@ -1,6 +1,7 @@
 ---
 title: Conclusion
 sidebar_position: 9
+description: ''
 ---
 
 This document covers the main questions related to **Gear’s** mission, technology and advantages.

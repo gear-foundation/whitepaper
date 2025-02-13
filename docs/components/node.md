@@ -1,6 +1,7 @@
 ---
 title: Gear Node
 sidebar_position: 3
+description: ''
 ---
 
 Gear node provides runtime that helps developers in implementation and testing their programs (personal node mode) as well as become a part of a Gear Network (validator’s public node).

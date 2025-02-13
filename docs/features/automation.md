@@ -1,6 +1,7 @@
 ---
 title: Self-executing Programs and Continuous Automation
 sidebar_position: 5
+description: ''
 ---
 
 In typical blockchain platforms, smart contracts react to events and only execute when invoked by a transaction. They respond to specific interactions from external entities, requiring these entities to initiate every action. While this design offers a certain degree of security, it tends to limit the potential for automation and adds complexity to the dApp's architecture.

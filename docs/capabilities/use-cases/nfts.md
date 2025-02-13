@@ -1,6 +1,7 @@
 ---
 title: NFTs and Tokenized Real-world Assets
 sidebar_position: 5
+description: ''
 ---
 
 NFTs are ways in which anything can be represented as a unique digital asset. They’re powered by smart contracts and they’re enabling creators to have more power and control over their work than ever before. NFTs let people represent ownership and tokenize assets like art, music, collectibles, tickets and even real estate. They can only have one official owner at a time and they’re secured by blockchain technology, which means that no one can modify the record of ownership or bring new ‘original’ NFTs into existence.

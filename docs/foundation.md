@@ -1,6 +1,7 @@
 ---
 title: Gear Foundation
 sidebar_position: 7
+description: ''
 ---
 
 While Gear Development Company is one of many contributors to the Gear Protocol, the **[Gear Foundation](https://gear.foundation/)** is an independent nonprofit foundation intended to support the development and usage of a Gear-powered **[Vara Network](https://vara.network/)**. 

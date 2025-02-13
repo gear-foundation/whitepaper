@@ -1,6 +1,7 @@
 ---
 title: Gear as a Standalone Network
 sidebar_position: 2
+description: ''
 ---
 
 Gear Protocol offers an innovative solution for creating purpose-specific, highly customizable decentralized applications (dApps). As a standalone network, it opens the door for developers to build and deploy dApps on a Gear network without needing to deploy and maintain their own blockchain. In addition, since Gear networks are Substrate-based, those dApps are natively interoperable and may communicate with other Substrate-based dApps and protocols. This is an extremely cost-effective and time-saving method for developers to integrate their dApps into the broader blockchain ecosystem.

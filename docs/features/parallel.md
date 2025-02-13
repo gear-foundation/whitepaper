@@ -1,6 +1,7 @@
 ---
 title: Parallel Computations
 sidebar_position: 3
+description: ''
 ---
 
 Individual isolated memory space per program allows parallelization of message processing on a Gear node, allowing for greatly increased scalability on the respective network and providing the ability for developers to introduce features to their dApps that were not otherwise viable on a serially-computed smart contract platform like Ethereum.

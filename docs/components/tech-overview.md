@@ -1,6 +1,7 @@
 ---
 title: Technology Overview
 sidebar_position: 1
+description: ''
 ---
 
 As any blockchain system, a **Gear Network** maintains a distributed state. Runtime code compiled to Wasm becomes a part of the blockchain’s storage state. Storage state includes the following components:

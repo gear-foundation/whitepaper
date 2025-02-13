@@ -1,6 +1,7 @@
 ---
 title: Private State & Persistent Memory
 sidebar_position: 4
+description: ''
 ---
 
 Gear Protocol presents an innovative solution for state and memory management in the world of blockchain and smart contracts. Traditional blockchain platforms keep a shared state, meaning all smart contracts share the same memory space. While this allows for interaction and interoperability between smart contracts, it also introduces complexities in memory management and potential security vulnerabilities.

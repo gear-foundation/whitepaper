@@ -1,6 +1,7 @@
 ---
 title: Gear Library
 sidebar_position: 2
+description: ''
 ---
 
 Gear provides a custom developer-friendly library, empowering dApp developers to execute arbitrary logic programs, including unit and integration tests, using `std` functions. This library streamlines the implementation of asynchronous logic through Gear`s messaging paradigm.

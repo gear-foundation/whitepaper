@@ -36,6 +36,17 @@ const config: Config = {
 
   themeConfig:
     {
+      metadata: [
+        {
+          name: "keywords",
+          content: "Gear, GearProtocol, web3, Gear whitepaper",
+        },
+        {
+          name: "description",
+          content:
+            "Vision of the next-generation decentralized programming",
+        },
+      ],
       colorMode: {
         defaultMode: 'light',
       },
