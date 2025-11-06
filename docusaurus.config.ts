@@ -15,7 +15,7 @@ const config: Config = {
   onDuplicateRoutes: 'log',
   organizationName: 'Gear Technologies', // Usually your GitHub org/username.
   projectName: 'gear-whitepaper', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
 
   presets: [
     [
