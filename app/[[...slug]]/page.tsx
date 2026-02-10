@@ -20,10 +20,12 @@ export default async function Page({
 
   const MDXContent = page.data.body;
 
+  const isHome = !slug || slug.length === 0;
+
   return (
     <DocsPage toc={page.data.toc} full={page.data.full}>
-      <DocsTitle>{page.data.title}</DocsTitle>
-      {page.data.description ? (
+      {!isHome ? <DocsTitle>{page.data.title}</DocsTitle> : null}
+      {!isHome && page.data.description ? (
         <DocsDescription>{page.data.description}</DocsDescription>
       ) : null}
       <DocsBody>
